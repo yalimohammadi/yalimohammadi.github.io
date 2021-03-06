@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-sector-stable
 excerpt: 'We show fully polynomial time randomized approximation schemes (FPRAS) for counting matchings of a given size, or more generally sampling/counting monomer-dimer systems in planar, not-necessarily-bipartite, graphs. '
 date: 2021-06-21
-venue: 'with Nima Anari, Kirankumar Shiragur and Thuy-Duong Vuong. (STOC '21)'
+venue: 'with Nima Anari, Kirankumar Shiragur and Thuy-Duong Vuong. (STOC \'21)'
 paperurl: 'https://arxiv.org/abs/2102.02708'
 ---
 We show fully polynomial time randomized approximation schemes (FPRAS) for counting matchings of a given size, or more generally sampling/counting monomer-dimer systems in planar, not-necessarily-bipartite, graphs. While perfect matchings on planar graphs can be counted exactly in polynomial time, counting non-perfect matchings was shown by [Jer87] to be #P-hard, who also raised the question of whether efficient approximate counting is possible. We answer this affirmatively by showing that the multi-site Glauber dynamics on the set of monomers in a monomer-dimer system always mixes rapidly, and that this dynamics can be implemented efficiently on downward-closed families of graphs where counting perfect matchings is tractable. As further applications of our results, we show how to sample efficiently using multi-site Glauber dynamics from partition-constrained strongly Rayleigh distributions, and nonsymmetric determinantal point processes.
