@@ -1,5 +1,6 @@
 ---
-title: "Raising "
+title: "Increasing Supply vs Improving Matching:
+A Random Walk Down Spatial Markets"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We show that in a dynamic spatial matching market, no level of sophistication in the matching algorithm and no amount of data to predict times and locations of future demand can beat a na\"{\i}ve greedy algorithm with a small excess supply.'
