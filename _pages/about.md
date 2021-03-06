@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hey! I'm Yeganeh, a third year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford.
 
- [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+ #[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 
