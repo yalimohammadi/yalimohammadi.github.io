@@ -9,6 +9,6 @@ redirect_from:
 ---
 Hey! I'm Yeganeh, a third year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford.
 
- #[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+ [comment]: <> [[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).]
 
 
