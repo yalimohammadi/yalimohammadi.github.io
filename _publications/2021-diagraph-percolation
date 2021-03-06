@@ -1,5 +1,5 @@
 ---
-title: "Locality of random digraphs on expanders"
+title: "Locality of Random Digraphs on Expanders"
 collection: publications
 permalink: /publication/2021-diagraph-percolation
 excerpt: 'We consider random digraphs on a sequence of expanders with bounded average degree.  Under the assumption that the original sequence has a weak local limit, we show that  the threshold for the existence of a giant strongly connected component, as well as the asymptotic fraction  of nodes with a giant fan-in or a giant fan-out are local.'
