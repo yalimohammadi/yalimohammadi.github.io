@@ -1,7 +1,7 @@
 ---
 title: "Locality of random digraphs on expanders"
 collection: publications
-permalink: /publication/2021-02-10-paper-title-number-1
+permalink: /publication/2021-02-28-diagraph-percolation
 excerpt: 'We consider random digraphs on a sequence of expanders with bounded average degree.  Under the assumption that the original sequence has a weak local limit, we show that  the threshold for the existence of a giant strongly connected component, as well as the asymptotic fraction  of nodes with a giant fan-in or a giant fan-out are local.'
 date: 2021-02-28
 venue: 'Work in Progress'
@@ -13,5 +13,3 @@ are again local. We give explicit formulae for all these quantities in terms of 
 We make no assumptions on the limit, in particular, we don't assume that it is tree-like.
 
 As an application of our methods, we show that the critical threshold for bond percolation and random digraphs on preferential attachment graphs is $0$.
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
