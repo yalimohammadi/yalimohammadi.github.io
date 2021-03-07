@@ -14,21 +14,10 @@ Education
 
 * Ph.D in Operations Research at Management Science and Engineering, Stanford University, 2023 (expected).
 * B.Sc. in Computer Engineering, Sharif University of Technology, 2018.
-
-Undergraduate research experience
-======
-* Summer 2017: Undergraduate Intern
-  * Princeton University
-  * Supervisor: Mark Braverman
-
-* Summer 2016: Undergraduate Intern
-  * Github University
-  * University of Delaware
-  * Supervisor: Douglas Rizzolo
   
 
 
-Publications
+Research projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -45,7 +34,18 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Undergraduate research experience
+======
+* Summer 2017: Undergraduate Intern
+  * Princeton University
+  * Supervisor: Mark Braverman
+
+* Summer 2016: Undergraduate Intern
+  * Github University
+  * University of Delaware
+  * Supervisor: Douglas Rizzolo
+
 Leadership at Stanford
 ======
 * Mentor (since 2019) and organizing board member (since 2020) in [Stanford Women in Math Mentoring](http://swimm.stanford.edu/mentors3.html)
