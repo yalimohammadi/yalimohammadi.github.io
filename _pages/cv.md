@@ -23,11 +23,11 @@ Research projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> Talks
+[comment]: <>======
+[comment]: <> <ul>{% for post in site.talks %}
+[comment]: <>    {% include archive-single-talk-cv.html %}
+[comment]: <>  {% endfor %}</ul>
   
 Teaching
 ======
