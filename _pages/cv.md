@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Operations Research at Management Science and Engineering, Stanford University, 2023 (expected)
+* * B.S. in Computer Engineering, Sharif University of Technology, 2018
 
 Work experience
 ======
@@ -27,14 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -54,6 +47,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership at Stanford
 ======
-* Currently signed in to 43 different slack teams
+* Mentor (since 2019) and organizing board member (since 2020) in [Stanford Women in Math Mentoring](http://swimm.stanford.edu/mentors3.html)
+* Organizing board member in [Persian Student Associatoin](https://psa.stanford.edu/) (2020-2021)
