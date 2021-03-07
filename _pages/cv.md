@@ -12,20 +12,19 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Operations Research at Management Science and Engineering, Stanford University, 2023 (expected)
-* * B.S. in Computer Engineering, Sharif University of Technology, 2018
+* Ph.D in Operations Research at Management Science and Engineering, Stanford University, 2023 (expected).
+* B.Sc. in Computer Engineering, Sharif University of Technology, 2018.
 
-Work experience
+Undergraduate research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Undergraduate Intern
+  * Princeton University
+  * Supervisor: Mark Braverman
 
-* Fall 2015: Research Assistant
+* Summer 2016: Undergraduate Intern
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of Delaware
+  * Supervisor: Douglas Rizzolo
   
 
 
