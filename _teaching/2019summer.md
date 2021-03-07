@@ -4,6 +4,6 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019summer
 venue: "Stanford University"
-date: 2015-01-01
+date: 2019-06-01
 ---
 
