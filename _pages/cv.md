@@ -37,7 +37,6 @@ Undergraduate research experience
   * Supervisor: Mark Braverman
 
 * Summer 2016: Undergraduate Intern
-  * Github University
   * University of Delaware
   * Supervisor: Douglas Rizzolo
 
