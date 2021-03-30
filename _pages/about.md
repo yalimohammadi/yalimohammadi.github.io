@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hey! I'm Yeganeh, a third year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). 
-I am broadly interested in theoretical computer science and its intersection with economics and health policy. 
+I am broadly interested in stochastic operations research and its applications to health policy and economics. My work combines ideas from computer science, probability theory, economics, and operations research to provide theoretical understanding for real-life problems. 
 
 Before coming to Stanford, I received BSc in Computer Engineering with a minor in Mathematics from [Sharif University of Technology](http://www.en.sharif.edu/). There I was lucky to work with [Hamid Zarrabi-Zadeh](http://sharif.edu/~zarrabi/) on maximum bicliques in convex graphs. 
 
