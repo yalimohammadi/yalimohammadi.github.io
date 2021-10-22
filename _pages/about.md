@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm Yeganeh, a third year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). 
+Hey! I'm Yeganeh, a fouth-year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). 
 I am broadly interested in stochastic operations research and its applications to health policy and economics. My work combines ideas from computer science, probability theory, economics, and operations research to provide theoretical understanding for real-life problems. 
 
-Before coming to Stanford, I received BSc in Computer Engineering with a minor in Mathematics from [Sharif University of Technology](http://www.en.sharif.edu/). There I was lucky to work with [Hamid Zarrabi-Zadeh](http://sharif.edu/~zarrabi/) on maximum bicliques in convex graphs. 
+Before coming to Stanford, I received BSc in Computer Engineering with a minor in Mathematics from [Sharif University of Technology](http://www.en.sharif.edu/).
 
 I have been a mentor since 2019 and an organizer since 2020  for Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates interested in math and computational sciences with the goal to reduce the gender gap.
 
