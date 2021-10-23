@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /publications/
+ # - title: "Research"
+ #   url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -12,4 +12,4 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Curriculum_Vitae_for_Yeganeh.pdf
