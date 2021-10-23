@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 Hey! I'm Yeganeh, a fouth-year PhD student in [Operations Research](https://or.stanford.edu/) in Management Science and Engineering at Stanford. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). 
-I am broadly interested in stochastic operations research and its applications to health policy and economics. My work combines ideas from computer science, probability theory, economics, and operations research to provide theoretical understanding for real-life problems. 
-
 Before coming to Stanford, I received BSc in Computer Engineering with a minor in Mathematics from [Sharif University of Technology](http://www.en.sharif.edu/).
 
-# Publications
+My research is in studying networks and its applications to health policy and economics. In particular, I have worked on studying random processes on networks, sampling from networks, and optimization problems on top of them. My work combines ideas from computer science, probability theory, and operations research to provide theoretical understanding for real-life problems. 
+
+
+# Research
 ### Algorithms Using Local Graph Features to Predict Epidemics
 *with Christian Borgs and Amin Saberi*\
 ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.org/pdf/2110.08961.pdf) [\[poster\]](http://www.local-algorithms.com/posters/yeganeh.pdf)
