@@ -31,8 +31,12 @@ submitted. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
 
 ### Excess Supply in Spatial Matching Markets
- *with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
- working paper. [\[arxiv\]](https://arxiv.org/abs/2104.03219)
+*with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
+working paper. [\[arxiv\]](https://arxiv.org/abs/2104.03219)
+ 
+### Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic
+*with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
+working paper. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
 
 # Outreach
 I have been a mentor since 2019 and an organizer since 2020  for Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates interested in math and computational sciences with the goal to reduce the gender gap.
