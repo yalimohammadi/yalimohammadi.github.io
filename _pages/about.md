@@ -29,7 +29,7 @@ submitted. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 *with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
 Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
 
- ### Excess Supply in Spatial Matching Markets
+### Excess Supply in Spatial Matching Markets
  *with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
  working paper. [\[arxiv\]](https://arxiv.org/abs/2104.03219)
 
