@@ -39,8 +39,6 @@ working paper. [\[arxiv\]](https://arxiv.org/abs/2104.03219)
 working paper. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
 
 # Outreach
-I have been a mentor since 2019 and a board member since 2020  for Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates interested in math and computational sciences with the goal to reduce the gender gap. Also, I am fortunate to mentroing undergraduate mentees through [SWIMM](http://swimm.stanford.edu/), [Stanford directed reading program](), and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0).
-
-I am also an organizing board member of [Persian Student Association](https://psa.stanford.edu/), where we organize events to promote an understanding of Persian culture, to help foster friendship among different cultural groups, and to provide a source of support for the Persian community at Stanford.
+I have been a mentor since 2019 and a board member since 2020  for Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates interested in math and computational sciences with the goal to reduce the gender gap. Also, I am fortunate to mentroing undergraduate mentees through [SWIMM](http://swimm.stanford.edu/), [Stanford directed reading program](), and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). I was also a board member of [Persian Student Association](https://psa.stanford.edu/), where we organized events to help foster friendship among different cultural groups.
 
  [comment]: <> [[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).]
