@@ -20,7 +20,7 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.or
 
 ### Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-submitted. [\[arxiv\]](https://arxiv.org/pdf/2107.00850.pdf)
+(to appear in Annals of Applied Probability). [\[arxiv\]](https://arxiv.org/pdf/2107.00850.pdf)
 
 ### Locality of Random Digraphs on Expanders
 *with Christian Borgs and Amin Saberi*\
