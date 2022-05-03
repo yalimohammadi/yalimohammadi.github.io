@@ -12,6 +12,9 @@ Before coming to Stanford, I received BSc in Computer Engineering with a minor i
 
 My research is in studying networks and its applications to health policy and economics. In particular, I have worked on studying random processes on networks, sampling from networks, and optimization problems on top of them. My work combines ideas from computer science, probability theory, and operations research to provide theoretical understanding for real-life problems. 
 
+# News
+My important paragraph.
+{: .alert .alert-info}
 
 # Research
 ### Algorithms Using Local Graph Features to Predict Epidemics
