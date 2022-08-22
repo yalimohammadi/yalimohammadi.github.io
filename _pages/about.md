@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). I was a research intern in the Market Algorithm group at Google Research in Mountain View.
+Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). Summer 2022, I was a research intern in the Market Algorithm group at Google Research in Mountain View.
 Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 
