@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
+Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). I was a research intern in the Market Algorithm group at Google Research in Mountain View.
+Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 
 
 
-** Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks](). 
+**Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks]().
+
 
 
 # Papers
@@ -44,13 +46,24 @@ to appear in Annals of Applied Probability. [\[arxiv\]](https://arxiv.org/pdf/21
 *with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
 Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
  
-## Optimization on Networks:
+## Online Markets:
+### Incentive Compatibility in the Auto-bidding World
+*with Aranyak Mehta and Andres Perlroth*\
+(working paper)
+
+### Analyzing Greedy in Dynamic Matching Markets with Coagulation Fragmentation Processes
+*with Kristen Kessel, Hung V. Tran, and Truong-Son Van*\
+(unders submission)
+
+
 ### Excess Supply in Spatial Matching Markets
 *with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
 ACM Conference on Economics and Computation (EC'22). [\[arxiv\]](https://arxiv.org/abs/2104.03219)
 
 
 # Outreach
-I was a mentor 2019-2021 and an organizing board member 2020-2021  in Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates interested in math and computational sciences to reduce the gender gap. Also, I am fortunate to mentor undergraduate mentees through [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). I was also a board member of [Persian Student Association](https://psa.stanford.edu/), where we organized events to help foster friendship among different cultural groups.
+I was a mentor 2019-2021 and an organizing board member 2020-2021  in Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates coming from minority backgrounds interested in math and computational sciences. Also, I mentored undergraduates in [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
+
+ [comment]: <> [I was also a board member of [Persian Student Association](https://psa.stanford.edu/), where we organized events to help foster friendship among different cultural groups.]
 
  [comment]: <> [[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).]
