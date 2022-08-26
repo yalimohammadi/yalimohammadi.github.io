@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/). Summer 2022, I was a research intern in the Market Algorithm group at Google Research in Mountain View.
+Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/).
 Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 
@@ -16,9 +16,12 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 **Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks]().
 
+**Summer 22**  Research intern in the Market Algorithm group at Google Research in Mountain View.
 
+# Research
 
-# Papers
+My research centers on designing algorithms and optimization of network models. In particular, I study the theoretical grounds of network models of practical importance with two main focuses: 1) studying epidemics on networks and 2) designing efficient sampling algorithms from large networks. Also, my research contributes theoretical insight into online platforms, such as matching markets and online advertising markets.
+
 
 ## Epidemics on Networks:
 
