@@ -16,7 +16,7 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 **Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks]().
 
-**Summer 22**  Research intern in the Market Algorithm group at Google Research in Mountain View.
+**Summer 22**  Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
 
 # Research
 
