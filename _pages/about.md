@@ -67,6 +67,9 @@ ACM Conference on Economics and Computation (EC'22). [\[arxiv\]](https://arxiv.o
 # Outreach
 I was a mentor 2019-2021 and an organizing board member 2020-2021  in Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates coming from minority backgrounds interested in math and computational sciences. Also, I mentored undergraduates in [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
 
+
+Contact me at \[my first name\]@stanford.edu.
+
  [comment]: <> [I was also a board member of [Persian Student Association](https://psa.stanford.edu/), where we organized events to help foster friendship among different cultural groups.]
 
  [comment]: <> [[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).]
