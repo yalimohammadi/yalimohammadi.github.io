@@ -14,9 +14,16 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 
 
-**Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks]().
+**Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks](https://simons.berkeley.edu/programs/graph2022).
 
 **Summer 22**  Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
+
+# Recent Talks
+- Duke Fuqua, Workshop in Operations Research and Data Science [(WORDS22)](https://sites.duke.edu/words2022/schedule/).
+- Simons Institute for the Theory of Computing, Epidemics and Information Diffusion Workshop [(video)](https://simons.berkeley.edu/talks/algorithms-using-local-graph-features-predict-epidemics-0). 
+- Cornell ORIE Young Researcher Workshop.
+- Cornell Theory Seminar.
+- Simons Institute for the Theory of Computing, Graph Limits and Processes on Networks: From Epidemics to Misinformation Boot Camp [(video)](https://simons.berkeley.edu/talks/cascade-models-i). 
 
 # Research
 
