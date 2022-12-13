@@ -31,7 +31,7 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.or
 
 ### Locality of Random Digraphs on Expanders
 *with Christian Borgs and Amin Saberi*\
-submitted. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
+to appear in Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 
 
 ### Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic
