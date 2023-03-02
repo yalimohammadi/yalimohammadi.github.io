@@ -59,11 +59,11 @@ Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.
 ## Online Markets:
 ### Incentive Compatibility in the Auto-bidding World
 *with Aranyak Mehta and Andres Perlroth*\
-(working paper)
+[\[arxiv\]](https://arxiv.org/pdf/2301.13414.pdf)
 
 ### Analyzing Greedy in Dynamic Matching Markets with Coagulation Fragmentation Processes
 *with Kristen Kessel, Hung V. Tran, and Truong-Son Van*\
-(unders submission)
+
 
 
 ### Excess Supply in Spatial Matching Markets
