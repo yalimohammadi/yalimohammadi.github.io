@@ -8,7 +8,6 @@ author_profile: true
 
 <!-- Add some white space here -->
 <br>
-<br>
 
 
 
@@ -20,6 +19,8 @@ author_profile: true
 - **Workshop on Algorithms and Models for the Web Graph (Plenary Speaker)**, May 2023, The Fields Institute for Research in Mathematical Sciences
 - **Statistics Seminar (Invited Speaker)**, Mar. 2023, London School of Economics
 
+
+<br>
 ### Past
 
 - **Incentive Compatibility in the Auto bidding World**, Feb. 2023, Stanford Theory Seminar
