@@ -39,3 +39,39 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Lora font */
+@font-face {
+  font-family: 'Lora-Medium';
+  src: url('../fonts/Lora-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora-Italic';
+  src: url('../fonts/Lora-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lora-Bold';
+  src: url('../fonts/Lora-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora-BoldItalic';
+  src: url('../fonts/Lora-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Lora-Medium', serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
