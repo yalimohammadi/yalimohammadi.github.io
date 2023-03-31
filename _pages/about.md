@@ -18,13 +18,6 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 **Summer 22**  Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
 
-# Recent Talks
-- Duke Fuqua, Workshop in Operations Research and Data Science [(WORDS22)](https://sites.duke.edu/words2022/schedule/).
-- Simons Institute for the Theory of Computing, Epidemics and Information Diffusion Workshop [(video)](https://simons.berkeley.edu/talks/algorithms-using-local-graph-features-predict-epidemics-0). 
-- Cornell ORIE Young Researcher Workshop.
-- Cornell Theory Seminar.
-- Simons Institute for the Theory of Computing, Graph Limits and Processes on Networks: From Epidemics to Misinformation Boot Camp [(video)](https://simons.berkeley.edu/talks/cascade-models-i). 
-
 # Research
 
 My research centers on designing algorithms and optimization of network models. In particular, I study the theoretical grounds of network models of practical importance with two main focuses: 1) studying epidemics on networks and 2) designing efficient sampling algorithms from large networks. Also, my research contributes theoretical insight into online platforms, such as matching markets and online advertising markets.
