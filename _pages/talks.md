@@ -3,14 +3,13 @@ layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
----
-## Talks
+
 
 ### Upcoming
 
-- **INFORMS Annual Meeting (Invited Speaker)**, Oct. 2023, Location TBD
-- **INFORMS Healthcare Meeting (Invited Speaker)**, Jul. 2023, Location TBD
-- **INFORMS Biannual Applied Probability Meeting**, Jun. 2023, Location TBD
+- **INFORMS Annual Meeting (Invited Speaker)**, Oct. 2023, Phoneix
+- **INFORMS Healthcare Meeting (Invited Speaker)**, Jul. 2023, Toronto, Canada
+- **INFORMS Biannual Applied Probability Meeting**, Jun. 2023, Nancy, France
 - **Workshop on Algorithms and Models for the Web Graph (Plenary Speaker)**, May 2023, The Fields Institute for Research in Mathematical Sciences
 - **Statistics Seminar (Invited Speaker)**, Mar. 2023, London School of Economics
 
