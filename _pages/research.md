@@ -3,6 +3,17 @@ title: Research
 permalink: /research/
 ---
 
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
 ## Epidemics on Networks:
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
