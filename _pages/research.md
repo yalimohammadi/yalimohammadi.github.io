@@ -8,7 +8,6 @@ permalink: /research/
 
 <br>
 <br>
-<br>
 
 
 
