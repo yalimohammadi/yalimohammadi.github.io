@@ -30,7 +30,3 @@ I was a mentor 2019-2021 and an organizing board member 2020-2021  in Stanford W
 
 
 Contact me at \[my first name\]@stanford.edu.
-
- [comment]: <> [I was also a board member of [Persian Student Association](https://psa.stanford.edu/), where we organized events to help foster friendship among different cultural groups.]
-
- [comment]: <> [[a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).]
