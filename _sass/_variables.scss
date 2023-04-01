@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 20;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -19,7 +19,7 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Lora, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
