@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: " "
 excerpt: "Yeganeh Alimohammadi"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Yeganeh, a Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/)  group at MS&E. I am very fortunate to be advised by [Amin Saberi](http://stanford.edu/~saberi/).
+I am a Ph.D. candidate at Stanford University in the  [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am advised by [Amin Saberi](http://stanford.edu/~saberi/). 
 Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 
@@ -16,7 +16,7 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 ### Research
 
-My research centers on designing algorithms and optimization of network models. In particular, I study the theoretical grounds of network models of practical importance with two main focuses: 1) studying epidemics on networks and 2) designing efficient sampling algorithms from large networks. Also, my research contributes theoretical insight into online platforms, such as matching markets and online advertising markets.
+My research involves leveraging data to guide decision-making using network models. Specifically, I develop algorithms and optimization techniques to study the behavior of networks in practical applications. My work has two main focuses: first, I investigate the spread of epidemics on networks, and second, I design efficient sampling algorithms for large networks. In addition, my research provides valuable insights into the functioning of online platforms such as matching markets and online advertising markets. Through my work, I aim to contribute to the development of more effective and informed decision-making strategies.
 
 
 
