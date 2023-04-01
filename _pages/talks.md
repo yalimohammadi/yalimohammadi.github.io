@@ -17,14 +17,16 @@ author_profile: true
 - **INFORMS Healthcare Meeting (Invited Speaker)**, Jul. 2023, Toronto, Canada
 - **INFORMS Biannual Applied Probability Meeting**, Jun. 2023, Nancy, France
 - **Workshop on Algorithms and Models for the Web Graph (Plenary Speaker)**, May 2023, The Fields Institute for Research in Mathematical Sciences
-- **Statistics Seminar (Invited Speaker)**, Mar. 2023, London School of Economics
+- **Brin Mathmatics Research Center (Invited Speaker)**, Apr. 2023, University of Maryland
 
 
 <br>
 ### Past
 
-- **Incentive Compatibility in the Auto bidding World**, Feb. 2023, Stanford Theory Seminar
+- **Incentive Compatibility in the Auto bidding World**:
+  - Stanford Theory Lunch, Feb. 2023
 - **A few Local Samples to Predict Epidemics on Networks**:
+  - London School of Economics, Statistics Seminar (Invited Speaker), Mar. 2023
   - Duke Fuqua, Workshop on Operations Research and Data Structures (Invited Speaker), Nov. 2022
   - Cornell University, ORIE Young Researcher Workshop (Invited Speaker), Oct. 2022
   - INFORMS Annual Meeting, Oct. 2022
