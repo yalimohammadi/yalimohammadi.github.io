@@ -21,6 +21,7 @@ author_profile: true
 
 
 <br>
+
 ### Past
 
 - **Incentive Compatibility in the Auto bidding World**:
