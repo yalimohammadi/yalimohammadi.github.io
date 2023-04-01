@@ -14,18 +14,18 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 
 
-**Fall 22**  I'm visiting Simons Institute at UC Berkeley as a research fellow in the program on [Graph Limits and Processes on Networks](https://simons.berkeley.edu/programs/graph2022).
-
-**Summer 22**  Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
-
-# Research
+### Research
 
 My research centers on designing algorithms and optimization of network models. In particular, I study the theoretical grounds of network models of practical importance with two main focuses: 1) studying epidemics on networks and 2) designing efficient sampling algorithms from large networks. Also, my research contributes theoretical insight into online platforms, such as matching markets and online advertising markets.
 
 
 
 
-# Outreach
+**Fall 22**  Research fellow at Simons Institute at UC Berkeley in the program on [Graph Limits and Processes on Networks](https://simons.berkeley.edu/programs/graph2022).
+
+**Summer 22**  Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
+
+### Outreach
 I was a mentor 2019-2021 and an organizing board member 2020-2021  in Stanford Women in Math Mentoring ([SWIMM](http://swimm.stanford.edu/)), a mentoring program for undergraduates coming from minority backgrounds interested in math and computational sciences. Also, I mentored undergraduates in [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
 
 
