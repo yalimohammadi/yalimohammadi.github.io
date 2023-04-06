@@ -14,7 +14,6 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 
 
-### Research
 
 My research involves leveraging data to guide decision-making using network models. Specifically, I develop algorithms and optimization techniques to study the behavior of networks in practical applications. My work has two main focuses: first, I investigate the spread of epidemics on networks, and second, I design efficient sampling algorithms for large networks. In addition, my research provides valuable insights into the functioning of online platforms such as matching markets and online advertising markets. Through my work, I aim to contribute to the development of more effective and informed decision-making strategies.
 
