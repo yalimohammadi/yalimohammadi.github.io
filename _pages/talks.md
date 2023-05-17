@@ -16,8 +16,8 @@ author_profile: true
 - **INFORMS Annual Meeting (Invited Speaker)**, Oct. 2023, Phoneix
 - **INFORMS Healthcare Meeting (Invited Speaker)**, Jul. 2023, Toronto, Canada
 - **INFORMS Biannual Applied Probability Meeting**, Jun. 2023, Nancy, France
+- **ACM Conference on Economics and Computation (EC'23)**, Jul. 2023, London, UK
 - **Workshop on Algorithms and Models for the Web Graph (Plenary Speaker)**, May 2023, The Fields Institute for Research in Mathematical Sciences
-- **Brin Mathmatics Research Center (Invited Speaker)**, Apr. 2023, University of Maryland
 
 
 <br>
@@ -45,4 +45,5 @@ author_profile: true
   - Operations Research Seminar (Invited Speaker), London Business School, Mar. 2021
   - Simons Institute for the Theory of Computing (Invited Speaker), UC Berkeley, Feb. 2021
 - **Network models for school reopening during COVID-19**:
+  - Brin Mathmatics Research Center, University of Maryland (Invited Speaker), Apr. 2023
   - INFORMS Healthcare Meeting (Invited Speaker), Jul. 2021
