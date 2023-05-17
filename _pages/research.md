@@ -12,7 +12,7 @@ permalink: /research/
 
 
 
-## Epidemic Modelling with Networks:
+## Epidemic Modeling with Networks:
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
 *with Christian Borgs and Amin Saberi*\
@@ -55,8 +55,8 @@ Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.
 ## Learning on Networks:
 
 **Sampling Based Graph Neural Networks: A Unified Theory of Learning from Small Subgraphs**
-*with Luana Ruiz and Amin Saberi (working paper)*\
+*with Luana Ruiz and Amin Saberi (working paper)*
 
 **Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise (working paper)*\
+*with Francesca Parise (working paper)*
 
