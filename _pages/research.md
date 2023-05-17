@@ -12,7 +12,7 @@ permalink: /research/
 
 
 
-## Epidemics on Networks:
+## Epidemic Modelling with Networks:
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
 *with Christian Borgs and Amin Saberi*\
@@ -29,20 +29,12 @@ working paper. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-
 
 <br>
 
-## Sampling from Networks: 
+## Network Algorithms:
 
 **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-to appear in Annals of Applied Probability. [\[arxiv\]](https://arxiv.org/pdf/2107.00850.pdf)
+Annals of Applied Probability'23. [\[arxiv\]](https://arxiv.org/pdf/2107.00850.pdf)
 
-
-**Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More**
-*with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
-Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
- 
-<br>
-
-## Online Markets:
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
 ACM Conference on Economics and Computation (EC'23). [\[arxiv\]](https://arxiv.org/pdf/2301.13414.pdf)
@@ -53,6 +45,18 @@ ACM Conference on Economics and Computation (EC'23). [\[arxiv\]](https://arxiv.o
 ACM Conference on Economics and Computation (EC'22). [\[arxiv\]](https://arxiv.org/abs/2104.03219)
 
 
-**Analyzing Greedy in Dynamic Matching Markets with Coagulation Fragmentation Processes**
-*with Kristen Kessel, Hung V. Tran, and Truong-Son Van*\
+**Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More**
+*with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
+Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
+
+
+<br>
+
+## Learning on Networks:
+
+**Sampling Based Graph Neural Networks: A Unified Theory of Learning from Small Subgraphs**
+*with Luana Ruiz and Amin Saberi (working paper)*\
+
+**Network Games: Learning Equilibrium from Local Samples**
+*with Francesca Parise (working paper)*\
 
