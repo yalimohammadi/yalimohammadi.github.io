@@ -37,7 +37,7 @@ Annals of Applied Probability'23. [\[arxiv\]](https://arxiv.org/pdf/2107.00850.p
 
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
-ACM Conference on Economics and Computation (EC'23). [\[pdf\]](https://github.com/yalimohammadi/yalimohammadi.github.io/blob/master/files/Auto_bidding_is_not_IC_jul7.pdf)
+ACM Conference on Economics and Computation (EC'23). [\[pdf\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
 
 
 **Excess Supply in Spatial Matching Markets**
