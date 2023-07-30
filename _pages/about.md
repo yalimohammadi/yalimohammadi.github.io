@@ -18,9 +18,9 @@ My research centers on learning and decision-making using network data. On the t
 My research questions are deeply motivated by real-world challenges that can be effectively modeled and analyzed using networks, focusing on addressing issues in healthcare and online markets.
 
 
+**I'm on the 2023-2024 academic job market.**
 
-
-Contact me at \[my first name\]@stanford.edu.
+Email: \[my first name\]@stanford.edu.
 
 ### News
 
