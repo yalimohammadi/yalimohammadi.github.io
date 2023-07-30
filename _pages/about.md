@@ -42,7 +42,7 @@ Contact me at \[my first name\]@stanford.edu.
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
 - <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
-- <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), *Rising Star Spotlight Talk*
+- <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), *[Rising Star Spotlight Talk](https://sites.google.com/view/ecgiw23/schedule)*
 - <span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph, *Plenary Speaker*
 - <span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group
 - <span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics
