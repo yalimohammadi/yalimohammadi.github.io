@@ -13,6 +13,10 @@ permalink: /research/
 
 
 ## Epidemic Modeling with Networks:
+**A Local Convergence Approach to Epidemics with Recovery**
+*with Christian Borgs, Remco van der Hofstad, and Amin Saberi*\
+working paper.
+
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
 *with Christian Borgs and Amin Saberi*\
@@ -22,10 +26,13 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.or
 *with Christian Borgs and Amin Saberi*\
 to appear in Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 
+**The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
+*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
+submitted to the New England Journal of Medicine.
 
 **Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
 *with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
-working paper. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+Health Management, Policy, and Innovation. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
 
 <br>
 
@@ -55,8 +62,10 @@ Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.
 ## Learning on Networks:
 
 **A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks**
-*with Luana Ruiz and Amin Saberi (working paper)*
+*with Luana Ruiz and Amin Saberi*\
+submitted.
 
 **Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise (working paper)*
+*with Francesca Parise*
+working paper.
 
