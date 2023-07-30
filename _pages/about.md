@@ -23,8 +23,7 @@ My research questions are deeply motivated by real-world challenges that can be 
 Email: \[my first name\]@stanford.edu.
 
 ### News
-
-
+---
 
 
 - <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in [Annals of Probability](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short).
@@ -34,6 +33,7 @@ Email: \[my first name\]@stanford.edu.
 - <span style="color: gray">Summer 2022</span>: Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
 
 ### Selected talks
+---
 
 
 
@@ -53,6 +53,7 @@ Email: \[my first name\]@stanford.edu.
 
 
 ### Outreach
+---
 
 
 During 2019-2021, I was a mentor and an organizing board member for Stanford Women in Math Mentoring  ([SWIMM](http://swimm.stanford.edu/)), a program supporting undergraduates from diverse backgrounds with a passion for math and computational sciences. I also mentored undergraduates in [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
@@ -60,7 +61,7 @@ During 2019-2021, I was a mentor and an organizing board member for Stanford Wom
 
 
 ### Service
-
+---
 
 
 - **Program Comittee** ACM EC 2023
