@@ -24,7 +24,7 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.or
 
 **Locality of Random Digraphs on Expanders**
 *with Christian Borgs and Amin Saberi*\
-to appear in Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
+Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
 *with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
@@ -66,6 +66,6 @@ Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.
 submitted.
 
 **Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise*
+*with Francesca Parise*\
 working paper.
 
