@@ -38,7 +38,7 @@ Email: \[my first name\]@stanford.edu.
 
 
 
-&#160; - <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
+- <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
 - <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
@@ -67,5 +67,5 @@ During 2019-2021, I was a mentor and an organizing board member for Stanford Wom
 
 
 - **Program Committee** ACM Conference on Economics and Computation (EC) 2023
-- **Journal Reviewer** Management Science, Computational and Applied Mathematics, Annals of Applied Probability, Review of Economics Studies
+- **Journal Reviewer** Management Science,  Annals of Applied Probability, Review of Economics Studies, Computational and Applied Mathematics
 - **Conference Reviewer**  ACM Conference on Economics and Computation (2023,2022), Symposium on Discrete Algorithms (2021,2022,2023,2024), Innovations in Theoretical Computer Science (2022), World Wide Web (2022), European Symposium on Algorithms (2019, 2022), ACM Symposium on Theory of Computing (2020)
