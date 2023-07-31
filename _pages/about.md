@@ -38,18 +38,20 @@ Email: \[my first name\]@stanford.edu.
 
 
 
-- <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
+&#160; - <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
 - <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
 - <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), *[Rising Star Spotlight Talk](https://sites.google.com/view/ecgiw23/schedule)*
-- <span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph, *Plenary Speaker*
+- <span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph, *[Plenary Speaker](https://math.ryerson.ca/waw2023/speakers.html)*
 - <span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group
 - <span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics
 - <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar
 - <span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures
 - <span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop
 - <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing
+
+
 
 
 ### Outreach
