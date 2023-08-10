@@ -18,9 +18,11 @@ My research centers on learning and decision-making using network data. On the t
 My research questions are deeply motivated by real-world challenges that can be effectively modeled and analyzed using networks, focusing on addressing issues in healthcare and online markets.
 
 
-**I'm on the 2023-2024 academic job market.**
+**I'm on the 2023-2024 job market.**
 
 Email: \[my first name\]@stanford.edu.
+
+If you've ever stumbled over my name (Yeganeh), you're not alone. It's pronounced 'Yeay gone eh'. To break it down, start with 'Yeay!' as if you just cracked a challenging problem, followed by 'gone' as in something mysteriously disappeared, and end with 'eh' like you're asking a thoughtful question. Thanks for taking the time to get it right!
 
 ### News
 ---
