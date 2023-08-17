@@ -27,7 +27,7 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.or
 Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
 
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
-*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer
+*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
 
 **Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
 *with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
