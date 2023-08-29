@@ -54,6 +54,7 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
 - <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
+</div>
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
 - <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
@@ -65,7 +66,7 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 - <span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures
 - <span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop
 - <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing
-</div>
+
 
 ---
 
