@@ -55,17 +55,39 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 <div style="margin-left: 20px;"> 
 - <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
 </div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), *[Rising Star Spotlight Talk](https://sites.google.com/view/ecgiw23/schedule)*
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph, *[Plenary Speaker](https://math.ryerson.ca/waw2023/speakers.html)*
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing
+</div>
 
 
 ---
