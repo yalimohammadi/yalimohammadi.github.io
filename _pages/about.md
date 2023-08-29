@@ -43,8 +43,14 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
 - <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in [Annals of Probability](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short).
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">May. 2023</span>: New paper "Incentive Compatibility in the Auto-bidding World" with Aranyak Mehta and Andres Perlroth accepted in [ACM EC'23](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf).
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Apr. 2023</span>: New paper "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings" with Persi Diaconis, Mohammad Roghani, Amin Saberi published in [Annals of Applied Probability](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short).
+</div>
+<div style="margin-left: 20px;"> 
 - <span style="color: gray">Fall 2022</span>: [Research fellow](https://simons.berkeley.edu/programs/graph2022) at Simons Institute for the Theory of Computing at UC Berkeley.
 </div>
 
@@ -102,6 +108,12 @@ During 2019-2021, I was a mentor and an organizing board member for Stanford Wom
 ### Service
 <div style="margin-bottom: 20px;"></div>
 
+<div style="margin-left: 20px;"> 
 - **Program Committee** ACM Conference on Economics and Computation (EC 2023)
+</div>
+<div style="margin-left: 20px;"> 
 - **Journal Reviewer** Management Science,  Annals of Applied Probability, Review of Economics Studies, Computational and Applied Mathematics
+</div>
+<div style="margin-left: 20px;"> 
 - **Conference Reviewer**  ACM Conference on Economics and Computation (EC), ACM Symposium on Theory of Computing (STOC), Symposium on Discrete Algorithms (SODA), Innovations in Theoretical Computer Science (ITCS), World Wide Web (WWW), European Symposium on Algorithms (ESA)
+</div>
