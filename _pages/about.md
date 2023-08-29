@@ -24,22 +24,30 @@ Email: \[my first name\]@stanford.edu.
 
 If you've ever stumbled over my name (Yeganeh /jegɒnɛ/), you're not alone. It's pronounced 'Yeay gone eh'—- say it swiftly, allowing the second 'y' to gracefully blend. To break it down, start with 'Yeay!' as if you just cracked a challenging problem, followed by 'gone' as in something mysteriously disappeared, and end with 'eh' like you're asking a thoughtful question. Thanks for taking the time to get it right!
 
-### News
 ---
 
+### Selected Publications
+
+**Locality of Random Digraphs on Expanders**
+*with Christian Borgs and Amin Saberi*\
+Annals of Probability. [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
+
+**Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
+*with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
+Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
+
+---
+
+### News
 
 - <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in [Annals of Probability](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short).
 - <span style="color: gray">May. 2023</span>: New paper "Incentive Compatibility in the Auto-bidding World" with Aranyak Mehta and Andres Perlroth accepted in [ACM EC'23](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf).
 - <span style="color: gray">Apr. 2023</span>: New paper "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings" with Persi Diaconis, Mohammad Roghani, Amin Saberi published in [Annals of Applied Probability](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short).
 - <span style="color: gray">Fall 2022</span>: [Research fellow](https://simons.berkeley.edu/programs/graph2022) at Simons Institute for the Theory of Computing at UC Berkeley.
-- <span style="color: gray">Summer 2022</span>: Research intern in the Market Algorithm group at Google Research, hosted by Aranyak Mehta.
 
-### Selected talks
 ---
 
-
-
-
+### Selected talks
 - <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
 - <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
@@ -54,19 +62,16 @@ If you've ever stumbled over my name (Yeganeh /jegɒnɛ/), you're not alone. It'
 - <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing
 
 
-
+---
 
 ### Outreach
+
+
+During 2019-2021, I was a mentor and an organizing board member for Stanford Women in Math Mentoring  ([SWIMM](http://swimm.stanford.edu/)), a program supporting undergraduates from diverse backgrounds with a passion for math and computational sciences. I also mentored undergraduates in [Stanford's Math Directed Reading Program](https://mathdrp.stanford.edu/) and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
+
 ---
-
-
-During 2019-2021, I was a mentor and an organizing board member for Stanford Women in Math Mentoring  ([SWIMM](http://swimm.stanford.edu/)), a program supporting undergraduates from diverse backgrounds with a passion for math and computational sciences. I also mentored undergraduates in [Stanford directed reading program]() and [MS&E Undergraduate Diversity in Research](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research?authuser=0). 
-
-
 
 ### Service
----
-
 
 - **Program Committee** ACM Conference on Economics and Computation (EC 2023)
 - **Journal Reviewer** Management Science,  Annals of Applied Probability, Review of Economics Studies, Computational and Applied Mathematics
