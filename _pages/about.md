@@ -110,10 +110,8 @@ During 2019-2021, I was a mentor and an organizing board member for Stanford Wom
 
 <div style="margin-left: 20px;"> 
   <ul>
-  <li>**Program Committee** ACM Conference on Economics and Computation (EC 2023)</li>
-<li> **Journal Reviewer** Management Science,  Annals of Applied Probability, Review of Economics Studies, Computational and Applied Mathematics </li>
+  <li><strong>Program Committee</strong>strong> ACM Conference on Economics and Computation (EC 2023)</li>
+<li> <strong>Journal Reviewer </strong>strong> Management Science,  Annals of Applied Probability, Review of Economics Studies, Computational and Applied Mathematics </li>
+<li><strong>Conference Reviewer</strong>strong>  ACM Conference on Economics and Computation (EC), ACM Symposium on Theory of Computing (STOC), Symposium on Discrete Algorithms (SODA), Innovations in Theoretical Computer Science (ITCS), World Wide Web (WWW), European Symposium on Algorithms (ESA)</li>
   </ul>
-</div>
-<div style="margin-left: 20px;"> 
-- **Conference Reviewer**  ACM Conference on Economics and Computation (EC), ACM Symposium on Theory of Computing (STOC), Symposium on Discrete Algorithms (SODA), Innovations in Theoretical Computer Science (ITCS), World Wide Web (WWW), European Symposium on Algorithms (ESA)
 </div>
