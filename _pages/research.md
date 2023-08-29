@@ -8,63 +8,64 @@ permalink: /research/
 
 <br>
 
+## Working Papers and Preprints Under Review:
 
-
-
-
-## Epidemic Modeling with Networks:
 **A Local Convergence Approach to Epidemics with Recovery**
-*with Christian Borgs, Remco van der Hofstad, and Amin Saberi*\
-working paper.
-
-
-**Algorithms Using Local Graph Features to Predict Epidemics**
-*with Christian Borgs and Amin Saberi*\
-ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[arxiv\]](https://arxiv.org/pdf/2110.08961.pdf) [\[poster\]](http://www.local-algorithms.com/posters/yeganeh.pdf)
-
-**Locality of Random Digraphs on Expanders**
-*with Christian Borgs and Amin Saberi*\
-Annals of Probability. [\[arxiv\]](https://arxiv.org/pdf/2103.09952.pdf)
+*with Christian Borgs, Remco van der Hofstad, and Amin Saberi*
 
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
 *with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
 
-**Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
-*with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
-Health Management, Policy, and Innovation. [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+**A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks**
+*with Luana Ruiz and Amin Saberi*
+
+**Network Games: Learning Equilibrium from Local Samples**
+*with Francesca Parise*
+
 
 <br>
 
-## Network Algorithms:
+## Journal Publications:
+**Locality of Random Digraphs on Expanders**
+*with Christian Borgs and Amin Saberi*\
+Annals of Probability (July 2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
 
 **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-Annals of Applied Probability'23. [\[arxiv\]](https://arxiv.org/pdf/2107.00850.pdf)
+Annals of Applied Probability (June 2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
+
+**Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
+*with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
+Health Management, Policy, and Innovation (February 2023). [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+
+<br>
+
+## Peer-Reviewed Conference Papers:
 
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
-ACM Conference on Economics and Computation (EC'23). [\[pdf\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
+ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)\
+Journal version under review for Management Science.
 
 
 **Excess Supply in Spatial Matching Markets**
 *with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
-ACM Conference on Economics and Computation (EC'22). [\[arxiv\]](https://arxiv.org/abs/2104.03219)
+ACM Conference on Economics and Computation (EC'22). [\[paper\]](https://arxiv.org/abs/2104.03219)
 
+
+**Algorithms Using Local Graph Features to Predict Epidemics**
+*with Christian Borgs and Amin Saberi*\
+ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[paper\]](https://arxiv.org/pdf/2110.08961.pdf) [\[poster\]](http://www.local-algorithms.com/posters/yeganeh.pdf)
 
 **Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More**
 *with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
-Annual ACM Symposium on Theory of Computing (STOC'21) [\[arxiv\]](https://arxiv.org/pdf/2102.02708.pdf)
+Annual ACM Symposium on Theory of Computing (STOC'21) [\[paper\]](https://arxiv.org/pdf/2102.02708.pdf)
 
 
-<br>
 
-## Learning on Networks:
 
-**A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks**
-*with Luana Ruiz and Amin Saberi*\
-submitted.
 
-**Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise*\
-working paper.
+
+
+
 
