@@ -28,15 +28,15 @@ permalink: /research/
 ## Journal Publications:
 **Locality of Random Digraphs on Expanders**
 *with Christian Borgs and Amin Saberi*\
-Annals of Probability (July 2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
+Annals of Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
 
 **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-Annals of Applied Probability (June 2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
+Annals of Applied Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
 
 **Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
 *with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
-Health Management, Policy, and Innovation (February 2023). [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+Health Management, Policy, and Innovation (2021). [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
 
 <br>
 
