@@ -61,7 +61,7 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 <li><span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting</li>
 <li><span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference</li>
 <li> <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), <em> <a href="https://sites.google.com/view/ecgiw23/schedule">[Rising Star Spotlight Talk]</a> </em></li>
-<li><span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph,  <em>[Plenary Speaker](https://math.ryerson.ca/waw2023/speakers.html) </em></li>
+<li><span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph,  <em><a href="https://math.ryerson.ca/waw2023/speakers.html">[Plenary Speaker]</a> </em></li>
 <li><span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group</li>
 <li><span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics </li>
 <li> <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar </li>
