@@ -42,16 +42,12 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 ### News
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
-- <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in [Annals of Probability](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short).
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">May. 2023</span>: New paper "Incentive Compatibility in the Auto-bidding World" with Aranyak Mehta and Andres Perlroth accepted in [ACM EC'23](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf).
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Apr. 2023</span>: New paper "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings" with Persi Diaconis, Mohammad Roghani, Amin Saberi published in [Annals of Applied Probability](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short).
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Fall 2022</span>: [Research fellow](https://simons.berkeley.edu/programs/graph2022) at Simons Institute for the Theory of Computing at UC Berkeley.
+     <ul>
+<li> <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in <a href="https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short">[Annals of Probability]</a>.</li>
+<li> <span style="color: gray">May. 2023</span>: New paper "Incentive Compatibility in the Auto-bidding World" with Aranyak Mehta and Andres Perlroth accepted in <a href="https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf">[ACM EC'23]</a>.</li>
+<li> <span style="color: gray">Apr. 2023</span>: New paper "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings" with Persi Diaconis, Mohammad Roghani, Amin Saberi published in <a href="[https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)">[Annals of Applied Probability]</a>. </li>
+<li> <span style="color: gray">Fall 2022</span>: <a href="https://simons.berkeley.edu/programs/graph2022">[Research fellow]</a> at Simons Institute for the Theory of Computing at UC Berkeley.</li>
+     </ul>
 </div>
 
 ---
@@ -59,40 +55,20 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 ### Selected talks
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
-- <span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), *[Rising Star Spotlight Talk](https://sites.google.com/view/ecgiw23/schedule)*
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph, *[Plenary Speaker](https://math.ryerson.ca/waw2023/speakers.html)*
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop
-</div>
-<div style="margin-left: 20px;"> 
-- <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing
+    <ul>
+<li><span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting</li>
+<li><span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting</li>
+<li><span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting</li>
+<li><span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference</li>
+<li> <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), <em> <a href="https://sites.google.com/view/ecgiw23/schedule">[Rising Star Spotlight Talk]</a> </em></li>
+<li><span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph,  <em>[Plenary Speaker](https://math.ryerson.ca/waw2023/speakers.html) </em></li>
+<li><span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group</li>
+<li><span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics </li>
+<li> <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar </li>
+<li><span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures</li>
+<li><span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop </li>
+<li> <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing </li>
+    </ul>
 </div>
 
 
