@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-
+<br>
+<br>
 <div style="margin-left: 20px;"> 
   <ul>
     <li><strong>Epidemic Prediction and Control: Insights from Network Analysis</strong>
@@ -17,7 +18,8 @@ author_profile: true
         <li><i>The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph</i> (May 2023) - <b><i>Plenary Speaker</i></b></li>
       </ul>
     </li>
-    
+<br>
+<br>    
     <li><strong>Incentive Compatibility in the Auto bidding World</strong>
       <ul>
         <li><i>ACM Economics and Computation</i> (Jul. 2023)</li>
@@ -25,7 +27,8 @@ author_profile: true
         <li><i>Google Research, Market Algorithm Seminar</i> (Sep. 2022)</li>
       </ul>
     </li>
-
+<br>
+<br>
     <li><strong>A Few Local Samples to Predict Epidemics on Networks</strong>
       <ul>
         <li><i>London School of Economics, Statistics Seminar</i> (Mar. 2023) - <b>Invited Speaker</b></li>
@@ -36,21 +39,24 @@ author_profile: true
         <li><i>Simons Institute at UC Berkeley</i> (Sept 2022) - <b>Invited Speaker</b></li>
       </ul>
     </li>
-    
+    <br>
+<br>
     <li><strong>Locality of Random Digraphs on Expanders</strong>
       <ul>
         <li><i>Simons Institute of Theory of Computing</i> (Oct. 2022)</li>
         <li><i>Stanford Theory Lunch</i> (Nov. 2020)</li>
       </ul>
     </li>
-    
+    <br>
+<br>
     <li><strong>The Value of Excess Supply in Spatial Matching Markets</strong>
       <ul>
         <li><i>ACM Conference on Economics and Computation</i> (Jul. 2022)</li>
         <li><i>INFORMS Annual Meeting</i> (Oct. 2021) - <b>Invited Speaker</b></li>
       </ul>
     </li>
-    
+    <br>
+<br>
     <li><strong>Network models for school reopening during COVID-19</strong>
       <ul>
         <li><i>INFORMS Healthcare Meeting</i> (Jul. 2023) - <b>Invited Speaker</b></li>
