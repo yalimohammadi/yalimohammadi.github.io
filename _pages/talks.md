@@ -10,40 +10,37 @@ author_profile: true
 <br>
 
 
+<div style="margin-left: 20px;"> 
+  <ul>
+    <li><strong>Epidemic Prediction and Control: Insights from Network Analysis</strong>
+      <ul>
+        <li><i>INFORMS Annual Meeting</i> (Oct. 2023) - <b>Invited Speaker</b></li>
+        <li><i>ACM Economics and Computation</i> (Jul. 2023) - <b>Invited Speaker</b></li>
+        <li><i>INFORMS Biannual Applied Probability Society Meeting</i> (Jun. 2023)</li>
+        <li><i>University of Chicago Booth</i> (May 2023) - <b>Invited Speaker</b></li>
+        <li><i>The Fields Institute for Research in Mathematical Sciences</i> (May 2023) - <b><i>Plenary Speaker</i></b></li>
+      </ul>
+    </li>
 
-### Upcoming
+    <li><strong>Incentive Compatibility in the Auto bidding World</strong>
+      <ul>
+        <li><i>ACM Economics and Computation</i> (Jul. 2023)</li>
+        <li><i>Stanford Theory Seminar</i> (Feb. 2023)</li>
+        <li><i>Google Research, Market Algorithm Seminar</i> (Sep. 2022)</li>
+      </ul>
+    </li>
 
-- **INFORMS Annual Meeting (Invited Speaker)**, Oct. 2023, Phoneix
-- **INFORMS Healthcare Meeting (Invited Speaker)**, Jul. 2023, Toronto, Canada
-- **INFORMS Biannual Applied Probability Meeting**, Jun. 2023, Nancy, France
-- **ACM Conference on Economics and Computation (EC'23)**, Jul. 2023, London, UK
-- **Workshop on Algorithms and Models for the Web Graph (Plenary Speaker)**, May 2023, The Fields Institute for Research in Mathematical Sciences
+    <li><strong>A Few Local Samples to Predict Epidemics on Networks</strong>
+      <ul>
+        <li><i>London School of Economics</i> (Mar. 2023) - <b>Invited Speaker</b></li>
+        <li><i>Duke Fuqua</i> (Nov. 2022) - <b>Invited Speaker</b></li>
+        <li><i>Cornell University ORIE and CS Theory Seminars</i> (Oct. 2022) - <b>Invited Speaker</b></li>
+        <!-- Add other venues for this talk as needed -->
+      </ul>
+    </li>
 
+    <!-- Continue formatting for other talks in a similar fashion -->
 
-<br>
+  </ul>
+</div>
 
-### Past
-
-- **Incentive Compatibility in the Auto bidding World**:
-  - Stanford Theory Lunch, Feb. 2023
-- **A few Local Samples to Predict Epidemics on Networks**:
-  - London School of Economics, Statistics Seminar (Invited Speaker), Mar. 2023
-  - Duke Fuqua, Workshop on Operations Research and Data Structures (Invited Speaker), Nov. 2022
-  - Cornell University, ORIE Young Researcher Workshop (Invited Speaker), Oct. 2022
-  - INFORMS Annual Meeting, Oct. 2022
-  - Cornell University, Computer Science Theory Seminar (Invited Speaker), Oct. 2022
-  - Simons Institute at UC Berkeley (Invited Speaker), Sept. 2022
-  - The 21st annual Trans-Atlantic Doctoral Conference, London School of Business (Invited Speaker), Mar. 2022
-  - Rutgers University, Computer Science Theory Seminar (Invited Speaker), Feb. 2022
-  - ACM-SIAM Symposium on Discrete Algorithms (Conference Talk), Jan. 2022
-  - Stanford Women in Theory Forum inaugural meeting (Invited Speaker), Oct. 2021
-  - Stanford Theory Lunch, Nov. 2020
-- **The Value of Excess Supply in Spatial Matching Markets**:
-  - ACM Conference on Economics and Computation (Conference Talk), Jul. 2022
-  - INFORMS Annual Meeting (Invited Speaker), Oct. 2021
-  - Highlights of Algorithms, London School of Economics, Mar. 2021
-  - Operations Research Seminar (Invited Speaker), London Business School, Mar. 2021
-  - Simons Institute for the Theory of Computing (Invited Speaker), UC Berkeley, Feb. 2021
-- **Network models for school reopening during COVID-19**:
-  - Brin Mathmatics Research Center, University of Maryland (Invited Speaker), Apr. 2023
-  - INFORMS Healthcare Meeting (Invited Speaker), Jul. 2021
