@@ -12,10 +12,8 @@ I am a final-year Ph.D. candidate at Stanford University in the  [Operations Res
 Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 
-
-
-My research centers on learning and decision-making using network data. On the theoretical side, I employ tools from applied probability, algorithms, and the theory of graph limits.
-My research questions are deeply motivated by real-world challenges that can be effectively modeled and analyzed using networks, focusing on addressing issues in healthcare and online markets.
+ My research centers on learning and decision-making using network data. From a theoretical perspective, I integrate tools from applied probability, algorithms, and the theory of graph limits. 
+On the practical front, I am inspired by addressing tangible real-world challenges in businesses, healthcare, and economics that can be modeled and analyzed using network data.
 
 
 **I'm on the 2023-2024 job market.**
