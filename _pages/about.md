@@ -88,8 +88,8 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
       </ul>
     </li>
   </ul>
+ <br> 
 </div>
-<br>
     
 For the full list of talks, [click here](https://yalimohammadi.github.io/talks/).
 
