@@ -57,7 +57,7 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
 ---
 
 ### Selected talks
-<br>
+<div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
   <ul>
     <li><strong>Epidemic Prediction and Control: Insights from Network Analysis</strong>
@@ -89,7 +89,8 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
     </li>
   </ul>
 </div>
-    <br>
+<br>
+    
 For the full list of talks, [click here](https://yalimohammadi.github.io/talks/).
 
 
