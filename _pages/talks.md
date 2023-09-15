@@ -22,6 +22,8 @@ author_profile: true
 <br>    
     <li><strong>Incentive Compatibility in the Auto bidding World</strong>
       <ul>
+        <li><i> INFORMS Annual Meeting</i> (Oct. 2023) - <b>EC Highlights</b></li>
+        <li><i>ACM Stanford Institute for Theoretical Economics</i> (Aug. 2023) - <b>Invited Speaker</b></li>
         <li><i>ACM Economics and Computation</i> (Jul. 2023)</li>
         <li><i>Stanford Theory Seminar</i> (Feb. 2023)</li>
         <li><i>Google Research, Market Algorithm Seminar</i> (Sep. 2022)</li>
@@ -36,7 +38,10 @@ author_profile: true
         <li><i>Cornell University ORIE Young Researcher Workshop</i> (Oct. 2022) - <b>Invited Speaker</b></li>
         <li><i>INFORMS Annual Meeting</i> (Oct. 2022)</li>
         <li><i>Cornell University, Computer Science Theory Seminar</i> (Oct. 2022) - <b>Invited Speaker</b></li>
-        <li><i>Simons Institute at UC Berkeley</i> (Sept 2022) - <b>Invited Speaker</b></li>
+        <li><i>21st Annual Trans-Atlantic Doctoral Conference, London School of Business</i> (Mar. 2022) - <b>Invited Speaker</b></li>
+        <li><i>Rutgers University, Computer Science Theory Seminar </i> (Feb. 2022) - <b>Invited Speaker</b></li>
+        <li><i>ACM-SIAM Symposium on Discrete Algorithms</i> (Jan. 2022) </li>
+        <li><i>Stanford Women in Theory Forum Inaugural Meeting</i> (Oct. 2021)  - <b>Invited Speaker</b></li>
       </ul>
     </li>
     <br>
@@ -53,6 +58,9 @@ author_profile: true
       <ul>
         <li><i>ACM Conference on Economics and Computation</i> (Jul. 2022)</li>
         <li><i>INFORMS Annual Meeting</i> (Oct. 2021) - <b>Invited Speaker</b></li>
+        <li><i>London School of Economics, Highlights of Algorithms</i> (Mar. 2021) </li>
+        <li><i>London Business School, Operations Research Seminar</i> (Mar. 2021) - <b>Invited Speaker</b></li>
+        <li><i>Simons Institute for the Theory of Computing, UC Berkeley,</i> (Feb. 2021) - <b>Invited Speaker</b></li>
       </ul>
     </li>
     <br>
