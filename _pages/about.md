@@ -57,22 +57,39 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
 ---
 
 ### Selected talks
-<div style="margin-bottom: 20px;"></div>
-
 
 <div style="margin-left: 20px;"> 
-    <ul>
-<li><span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting</li>
-<li><span style="color: gray">Jul. 2023</span>: INFORMS Healthcare Meeting</li>
-<li><span style="color: gray">Jul. 2023</span>: INFORMS Revenue Management and Pricing Meeting</li>
-<li><span style="color: gray">Jun. 2023</span>: INFORMS Applied Probability Society Conference</li>
-<li> <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), <em> <a href="https://sites.google.com/view/ecgiw23/schedule">[Rising Star Spotlight Talk]</a> </em></li>
-<li><span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph,  <em><a href="https://math.ryerson.ca/waw2023/speakers.html">[Plenary Speaker]</a> </em></li>
-<li><span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group</li>
-<li><span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures</li>
-<li><span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop </li>
-<li> <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing </li>
-    </ul>
+  <ul>
+    <li><strong>Epidemic Prediction and Control: Insights from Network Analysis</strong>
+      <ul>
+        <li><i>INFORMS Annual Meeting</i> (Oct. 2023) - <b>Invited Speaker</b></li>
+        <li><i>ACM Economics and Computation</i> (Jul. 2023) - <b>Rising Star</b></li>
+        <li><i>INFORMS Biannual Applied Probability Society Meeting</i> (Jun. 2023)</li>
+        <li><i>University of Chicago Booth, Brown Bag Seminar</i> (May 2023) - <b>Invited Speaker</b></li>
+        <li><i>The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph</i> (May 2023) - <b><i>Plenary Speaker</i></b></li>
+      </ul>
+    </li>
+<br>
+<br>    
+    <li><strong>A Few Local Samples to Predict Epidemics on Networks</strong>
+      <ul>
+        <li><i>London School of Economics, Statistics Seminar</i> (Mar. 2023) - <b>Invited Speaker</b></li>
+        <li><i>Duke Fuqua, Workshop on Operations Research and Data Structures</i> (Nov. 2022) - <b>Invited Speaker</b></li>
+        <li><i>Cornell University ORIE Young Researcher Workshop</i> (Oct. 2022) - <b>Invited Speaker</b></li>
+        <li><i>Cornell University, Computer Science Theory Seminar</i> (Oct. 2022) - <b>Invited Speaker</b></li>
+        <li><i>Simons Institute at UC Berkeley</i> (Sept 2022) - <b>Invited Speaker</b></li>
+      </ul>
+    </li>
+    <br>
+<br>
+    <li><strong>Network models for school reopening during COVID-19</strong>
+      <ul>
+        <li><i>INFORMS Healthcare Meeting</i> (Jul. 2023) - <b>Invited Speaker</b></li>
+        <li><i>Brin Mathematics Research Center, University of Maryland</i> (Apr. 2023) - <b>Invited Speaker</b></li>
+        <li><i>INFORMS Healthcare Meeting</i> (Jul. 2021) - <b>Invited Speaker</b></li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 For the full list of talks, [click here](https://yalimohammadi.github.io/talks/).
