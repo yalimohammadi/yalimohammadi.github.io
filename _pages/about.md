@@ -27,13 +27,19 @@ If you've ever stumbled over my name (Yeganeh /jegɒnɛ/), you're not alone. It'
 ### Selected Publications
 <div style="margin-bottom: 20px;"></div>
 
-**Locality of Random Digraphs on Expanders**
-*with Christian Borgs and Amin Saberi*\
-Annals of Probability. [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
 
-**Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
-*with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
+Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings,
+*with Persi Diaconis, Mohammad Roghani and Amin Saberi,*\
+**Annals of Applied Probability**. [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
+
+
+Locality of Random Digraphs on Expanders,
+*with Christian Borgs and Amin Saberi,*\
+**Annals of Probability**. [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
+
+
+
+For the full list of my publications, [click here](https://yalimohammadi.github.io/research/).
 
 ---
 
@@ -52,6 +58,8 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 
 ### Selected talks
 <div style="margin-bottom: 20px;"></div>
+
+
 <div style="margin-left: 20px;"> 
     <ul>
 <li><span style="color: gray">Oct. 2023</span>: Upcoming talk at INFORMS Annual Meeting</li>
@@ -61,13 +69,14 @@ Annals of Applied Probability. [\[paper\]](https://projecteuclid.org/journals/an
 <li> <span style="color: gray">Jul. 2023</span>: ACM Conference on Economics and Computation (EC’23), <em> <a href="https://sites.google.com/view/ecgiw23/schedule">[Rising Star Spotlight Talk]</a> </em></li>
 <li><span style="color: gray">May 2023</span>:  The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph,  <em><a href="https://math.ryerson.ca/waw2023/speakers.html">[Plenary Speaker]</a> </em></li>
 <li><span style="color: gray">May 2023</span>: Chicago Booth, brown bag Seminar in the Operations Management Group</li>
-<li><span style="color: gray">Apr 2023</span>: Brin Mathematical Research Center, Human Behavior and Disease Dynamics </li>
-<li> <span style="color: gray">Mar 2023</span>: London School of Economics, Statistic Seminar </li>
 <li><span style="color: gray">Nov. 2022</span>: Duke Fuqua, Workshop on Operations Research and Data Structures</li>
 <li><span style="color: gray">Oct. 2022</span>: Cornell University, ORIE Young Researcher Workshop </li>
 <li> <span style="color: gray">Aug.& Oct. 2022</span>: Simons Institute for the Theory of Computing </li>
     </ul>
 </div>
+
+For the full list of talks, [click here](https://yalimohammadi.github.io/talks/).
+
 
 
 ---
