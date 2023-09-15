@@ -57,7 +57,7 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
 ---
 
 ### Selected talks
-
+<br>
 <div style="margin-left: 20px;"> 
   <ul>
     <li><strong>Epidemic Prediction and Control: Insights from Network Analysis</strong>
@@ -69,7 +69,6 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
         <li><i>The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph</i> (May 2023) - <b><i>Plenary Speaker</i></b></li>
       </ul>
     </li>
-<br>
 <br>    
     <li><strong>A Few Local Samples to Predict Epidemics on Networks</strong>
       <ul>
@@ -80,7 +79,6 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
         <li><i>Simons Institute at UC Berkeley</i> (Sept 2022) - <b>Invited Speaker</b></li>
       </ul>
     </li>
-    <br>
 <br>
     <li><strong>Network models for school reopening during COVID-19</strong>
       <ul>
@@ -91,7 +89,7 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
     </li>
   </ul>
 </div>
-
+    <br>
 For the full list of talks, [click here](https://yalimohammadi.github.io/talks/).
 
 
