@@ -64,7 +64,6 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
       <ul>
         <li><i>INFORMS Annual Meeting</i> (Oct. 2023) - <b>Invited Speaker</b></li>
         <li><i>ACM Economics and Computation</i> (Jul. 2023) - <b>Rising Star</b></li>
-        <li><i>INFORMS Biannual Applied Probability Society Meeting</i> (Jun. 2023)</li>
         <li><i>University of Chicago Booth, Brown Bag Seminar</i> (May 2023) - <b>Invited Speaker</b></li>
         <li><i>The Fields Institute for Research in Mathematical Sciences, Workshop on Algorithms and Models for the Web Graph</i> (May 2023) - <b><i>Plenary Speaker</i></b></li>
       </ul>
@@ -75,7 +74,6 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
         <li><i>London School of Economics, Statistics Seminar</i> (Mar. 2023) - <b>Invited Speaker</b></li>
         <li><i>Duke Fuqua, Workshop on Operations Research and Data Structures</i> (Nov. 2022) - <b>Invited Speaker</b></li>
         <li><i>Cornell University ORIE Young Researcher Workshop</i> (Oct. 2022) - <b>Invited Speaker</b></li>
-        <li><i>Cornell University, Computer Science Theory Seminar</i> (Oct. 2022) - <b>Invited Speaker</b></li>
         <li><i>Simons Institute at UC Berkeley</i> (Sept 2022) - <b>Invited Speaker</b></li>
       </ul>
     </li>
