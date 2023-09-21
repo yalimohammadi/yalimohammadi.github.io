@@ -31,12 +31,12 @@ Email: \[my first name\]@stanford.edu.
 ### Upcoming talks at INFORMS 2023
 <div style="margin-bottom: 20px;"></div>
 
-> **Epidemic Prediction and Control, Learning from Network Data**
+> **Epidemic Prediction and Control, Learning from Network Data**  
 > **Session:** Data, Learning, and Decision-Making (TC45)  
 > **Date & Time:** Tuesday, Oct. 17, 12:45-­2 pm
 
-> **Incentive Compatibility in the Auto-Bidding World**
-> **Session:** Economics and Computation I (SA74)  
+> **Incentive Compatibility in the Auto-Bidding World**    
+> **Session:** Economics and Computation I (SA74)
 > **Date & Time:** Sunday, Oct. 15, 8-9:15 am
 
 ---
