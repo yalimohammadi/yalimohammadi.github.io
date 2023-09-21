@@ -16,14 +16,30 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 On the practical front, I am inspired by addressing tangible real-world challenges in businesses, healthcare, and economics that can be modeled and analyzed using network data.
 
 
-**I'm on the 2023-2024 job market.**
-
 Email: \[my first name\]@stanford.edu.
 
 <details>
     <summary>If you’ve ever stumbled over my name (Yeganeh /jegɒnɛ/), click to learn more.</summary>
     It’s pronounced ‘Yeay gone eh’—- say it swiftly, allowing the second ‘y’ to gracefully blend. To break it down, start with ‘Yeay!’ as if you just cracked a challenging problem, followed by ‘gone’ as in something mysteriously disappeared, and end with ‘eh’ like you’re asking a thoughtful question. Thanks for taking the time to get it right!
 </details>
+
+
+**I'm on the 2023-2024 job market.**
+
+---
+
+### Upcoming talks at INFORMS 2023:
+
+
+**Epidemic Prediction and Control, Learning from Network Data**
+
+> **Session:** Data, Learning, and Decision-Making (TC45)  
+> **Date & Time:** Tuesday, Oct. 17, 12:45-­2 pm
+
+**Incentive Compatibility in the Auto-Bidding World**
+
+> **Session:** Economics and Computation I (SA74)  
+> **Date & Time:** Sunday, Oct. 15, 8-9:15 am
 
 ---
 
