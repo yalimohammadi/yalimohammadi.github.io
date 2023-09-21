@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Yeganeh Alimohammadi"
   avatar           : "profile.png"
-  bio              : "PhD student in Operations Research at MS&E"
+  bio: |
+    PhD candidate in Operations Research
+    Department of Management Science and Engineering
+    Stanford University
   location         : "Stanford University"
   employer         :
   pubmed           : 
