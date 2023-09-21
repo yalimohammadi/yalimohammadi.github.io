@@ -24,6 +24,7 @@ permalink: /research/
 *with Francesca Parise*
 
 
+---
 <br>
 
 ### Journal Publications:
@@ -40,6 +41,8 @@ Annals of Applied Probability (2023). [\[paper\]](https://projecteuclid.org/jour
 **Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
 *with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
 Health Management, Policy, and Innovation (2021). [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+
+---
 
 <br>
 
