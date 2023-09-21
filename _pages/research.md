@@ -8,7 +8,8 @@ permalink: /research/
 
 <br>
 
-## Working Papers and Preprints Under Review:
+### Working Papers and Preprints Under Review:
+<div style="margin-bottom: 20px;"></div>
 
 **A Local Convergence Approach to Epidemics with Recovery**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi*
@@ -25,7 +26,9 @@ permalink: /research/
 
 <br>
 
-## Journal Publications:
+### Journal Publications:
+<div style="margin-bottom: 20px;"></div>
+
 **Locality of Random Digraphs on Expanders**
 *with Christian Borgs and Amin Saberi*\
 Annals of Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
@@ -40,7 +43,8 @@ Health Management, Policy, and Innovation (2021). [\[policy brief\]](https://hmp
 
 <br>
 
-## Peer-Reviewed Conference Papers:
+### Peer-Reviewed Conference Papers:
+<div style="margin-bottom: 20px;"></div>
 
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
