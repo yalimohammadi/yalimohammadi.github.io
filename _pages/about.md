@@ -13,7 +13,7 @@ Before coming to Stanford, I received my B.Sc. in Computer Engineering with a mi
 
 
  My research centers on learning and decision-making using network data. From a theoretical perspective, I integrate tools from applied probability, algorithms, and the theory of graph limits. 
-On the practical front, I am inspired by addressing tangible real-world challenges in business operations, such as healthcare and economics, that can be modeled and analyzed using network data.
+On the practical front, I am inspired by addressing tangible real-world challenges in business operations, such as healthcare and online markets, that can be modeled and analyzed using network data.
 
 **I'm on the 2023-2024 job market.**
 
