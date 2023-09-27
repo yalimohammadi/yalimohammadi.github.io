@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a final-year Ph.D. candidate at Stanford University in the  [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am advised by [Amin Saberi](http://stanford.edu/~saberi/). 
-Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/). In 2022, I was a <a href="https://simons.berkeley.edu/programs/graph2022">[research fellow]</a>  at the Simons Institute Theory for Computing, and I interned at Google Research, hosted by Aranyak Mehta.
+Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/). In 2022, I was a research fellow at the <a href="https://simons.berkeley.edu/programs/graph2022">Simons Institute Theory for Computing</a>, and I interned at Google Research, hosted by Aranyak Mehta.
 
 
  My research centers on learning and decision-making using network data. From a theoretical perspective, I integrate tools from applied probability, algorithms, and the theory of graph limits. 
