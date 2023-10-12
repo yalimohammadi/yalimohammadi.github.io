@@ -11,7 +11,7 @@ permalink: /research/
 ### Working Papers and Preprints Under Review:
 <div style="margin-bottom: 20px;"></div>
 
-**Epidemic Forecasting on Networks: \\Bridging Local Samples with Global Outcomes**
+**Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi*
 
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
