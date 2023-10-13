@@ -51,7 +51,7 @@ Health Management, Policy, and Innovation (2021). [\[paper\]](https://hmpi.org/2
 
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
-ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)\
+ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
 
 
 
