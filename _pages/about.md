@@ -34,6 +34,7 @@ Email: \[my first name\]@stanford.edu.
 **Session:** Data, Learning, and Decision-Making (TC45)\
 **Date & Time:** Tuesday, Oct. 17, 12:45-­2 pm
 
+
 **Incentive Compatibility in the Auto-Bidding World**\
 **Session:** Economics and Computation I (SA74)\
 **Date & Time:** Sunday, Oct. 15, 8-9:15 am
@@ -43,6 +44,9 @@ Email: \[my first name\]@stanford.edu.
 ### Selected Publications
 <div style="margin-bottom: 20px;"></div>
 
+Epidemic Forecasting on Networks: Bridging Local Samples to with Global Outcomes,
+*with Christian Borgs, Remco van der Hofstad and Amin Saberi,*\
+Submitted. [\[paper\]](yalimohammadi.github.io/blob/master/files/epidemic%20is%20local.pdf)
 
 Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings,
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi,*\
@@ -63,6 +67,8 @@ For the full list of my publications, [click here](https://yalimohammadi.github.
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-left: 20px;"> 
      <ul>
+       
+<li> <span style="color: gray">Jul. 2023</span>: New paper is out: "Epidemic Forecasting on Networks: Bridging Local Samples to with Global Outcomes" with Christian Borgs, Remco van der Hofstad, Amin Saberi, <a href="yalimohammadi.github.io/blob/master/files/epidemic%20is%20local.pdf">[paper]</a>.</li>
 <li> <span style="color: gray">Jul. 2023</span>: New paper "Locality of random digraphs on expanders" with Christian Borgs, Amin Saberi published in <a href="https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short">[Annals of Probability]</a>.</li>
 <li> <span style="color: gray">May. 2023</span>: New paper "Incentive Compatibility in the Auto-bidding World" with Aranyak Mehta and Andres Perlroth accepted in <a href="https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf">[ACM EC'23]</a>.</li>
 <li> <span style="color: gray">Apr. 2023</span>: New paper "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings" with Persi Diaconis, Mohammad Roghani, Amin Saberi published in <a href="[https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)">[Annals of Applied Probability]</a>. </li>
