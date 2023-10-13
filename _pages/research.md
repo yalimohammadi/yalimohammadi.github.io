@@ -40,7 +40,7 @@ Annals of Applied Probability (2023). [\[paper\]](https://projecteuclid.org/jour
 
 **Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
 *with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
-Health Management, Policy, and Innovation (2021). [\[policy brief\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
+Health Management, Policy, and Innovation (2021). [\[paper\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
 
 ---
 
@@ -52,7 +52,7 @@ Health Management, Policy, and Innovation (2021). [\[policy brief\]](https://hmp
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
 ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)\
-Journal version under review for Management Science.
+
 
 
 **Excess Supply in Spatial Matching Markets**
@@ -62,7 +62,7 @@ ACM Conference on Economics and Computation (EC'22). [\[paper\]](https://arxiv.o
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
 *with Christian Borgs and Amin Saberi*\
-ACM-SIAM Symposium on Discrete Algorithms (SODA'22).[\[paper\]](https://arxiv.org/pdf/2110.08961.pdf) [\[poster\]](http://www.local-algorithms.com/posters/yeganeh.pdf)
+ACM-SIAM Symposium on Discrete Algorithms (SODA'22). [\[paper\]](https://arxiv.org/pdf/2110.08961.pdf)
 
 **Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More**
 *with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
