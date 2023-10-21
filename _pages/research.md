@@ -17,8 +17,8 @@ permalink: /research/
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
 *with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
 
-**A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks**
-*with Luana Ruiz and Amin Saberi*
+**A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
+*with Luana Ruiz and Amin Saberi*  [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
 
 **Network Games: Learning Equilibrium from Local Samples**
 *with Francesca Parise*
