@@ -46,7 +46,7 @@ Email: \[my first name\]@stanford.edu.
 
 Epidemic Forecasting on Networks: Bridging Local Samples to with Global Outcomes,
 *with Christian Borgs, Remco van der Hofstad and Amin Saberi,*\
-Submitted. [\[paper\]](yalimohammadi.github.io/blob/master/files/epidemic%20is%20local.pdf)
+Submitted. [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
 Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings,
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi,*\
