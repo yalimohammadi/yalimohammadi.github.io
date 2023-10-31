@@ -12,7 +12,7 @@ permalink: /research/
 <div style="margin-bottom: 20px;"></div>
 
 **Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
-*with Christian Borgs, Remco van der Hofstad, and Amin Saberi*
+*with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
 *with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
