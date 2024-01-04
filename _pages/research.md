@@ -11,6 +11,10 @@ permalink: /research/
 ### Working Papers and Preprints Under Review:
 <div style="margin-bottom: 20px;"></div>
 
+**Incentive Compatibility in the Auto-bidding World**
+*with Aranyak Mehta and Andres Perlroth*\
+R\&R at Management Science (Conference version appeared at EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
+
 **Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
