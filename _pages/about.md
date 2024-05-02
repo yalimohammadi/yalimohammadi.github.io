@@ -11,11 +11,13 @@ redirect_from:
 I am a final-year Ph.D. candidate at Stanford University in the  [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am advised by [Amin Saberi](http://stanford.edu/~saberi/). 
 Before coming to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/). In 2022, I was a research fellow at the <a href="https://simons.berkeley.edu/programs/graph2022">Simons Institute Theory for Computing</a>, and I interned at Google Research, hosted by Aranyak Mehta.
 
+**Exciting News**: I will be a President’s Postdoctoral Fellow at UC Berkeley, hosted by Christian Borgs. Starting in the summer of 2025, I will join the USC Marshall School of Business as an Assistant Professor of Data Sciences and Operations.
 
- My research centers on learning and decision-making using network data. From a theoretical perspective, I integrate tools from applied probability, algorithms, and the theory of graph limits. 
+My research centers on learning and decision-making using network data. From a theoretical perspective, I integrate tools from applied probability, algorithms, and the theory of graph limits. 
 On the practical front, I am inspired by addressing tangible real-world challenges in business operations, such as healthcare and online markets, that can be modeled and analyzed using network data.
 
-**I'm on the 2023-2024 job market.**
+
+
 
 Email: \[my first name\]@stanford.edu.
 <details>
@@ -25,19 +27,7 @@ Email: \[my first name\]@stanford.edu.
 
 
 
----
 
-### Upcoming talks at INFORMS 2023
-<div style="margin-bottom: 20px;"></div>
-
-**Epidemic Prediction and Control, Learning from Network Data**\
-**Session:** Data, Learning, and Decision-Making (TC45)\
-**Date & Time:** Tuesday, Oct. 17, 12:45-­2 pm
-
-
-**Incentive Compatibility in the Auto-Bidding World**\
-**Session:** Economics and Computation I (SA74)\
-**Date & Time:** Sunday, Oct. 15, 8-9:15 am
 
 ---
 
