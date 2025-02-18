@@ -22,6 +22,8 @@ permalink: /research/
 
 **Local Limits of Small World Networks **
 *with Senem Işik and Amin Saberi* [\[paper\]](https://arxiv.org/abs/2501.11226)
+
+
 ---
 <br>
 
