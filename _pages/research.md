@@ -20,7 +20,7 @@ permalink: /research/
 **A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
 *with Luana Ruiz and Amin Saberi*  [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
 
-**Local Limits of Small World Networks **
+**Local Limits of Small World Networks**
 *with Senem Işik and Amin Saberi* [\[paper\]](https://arxiv.org/abs/2501.11226)
 
 
