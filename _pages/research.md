@@ -11,23 +11,17 @@ permalink: /research/
 ### Working Papers and Preprints Under Review:
 <div style="margin-bottom: 20px;"></div>
 
-**Incentive Compatibility in the Auto-bidding World**
-*with Aranyak Mehta and Andres Perlroth*\
-R\&R at Management Science (Conference version appeared at EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
-
 **Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
-**The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
-*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
+**The impact of COVID-19 mitigation and testing on reopening a U.S. school district**  
+*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer* [\[paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032683)
 
 **A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
 *with Luana Ruiz and Amin Saberi*  [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
 
-**Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise*
-
-
+**Local Limits of Small World Networks **
+*with Senem Işik and Amin Saberi* [\[paper\]](https://arxiv.org/abs/2501.11226)
 ---
 <br>
 
