@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio: |
     
-  location         : "Los Angeles"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bhwPBRYAAAAJ&hl=en&oi=sra"
