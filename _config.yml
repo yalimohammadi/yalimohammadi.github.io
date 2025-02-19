@@ -83,14 +83,12 @@ author:
   name             : "Yeganeh Alimohammadi"
   avatar           : "profile.png"
   bio: |
-    PhD candidate in Operations Research
-    Management Science and Engineering
-    Stanford University
-  location         : "Stanford"
+    
+  location         : "Los Angeles"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bhwPBRYAAAAJ&hl=en&oi=sra"
-  email            : "yeganeh[at]stanford[dot]edu"
+  email            : "yeganeha[at]berkeley[dot]edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
