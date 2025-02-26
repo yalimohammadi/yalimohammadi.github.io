@@ -12,8 +12,9 @@ I am a UC President’s Postdoctoral Fellow at UC Berkeley, hosted by [Christian
 
 I recently completed my Ph.D. at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the Department of Management Science & Engineering, advised by [Amin Saberi](http://stanford.edu/~saberi/). During my Ph.D., I spent a semester at the [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/graph2022) as a research fellow. Prior to Stanford, I received my B.Sc. in Computer Engineering with a minor in Mathematics from the [Sharif University of Technology](http://www.en.sharif.edu/).
 
-## Research Overview
-My research centers on learning and decision-making using network data. By integrating tools from applied probability, algorithm design, and the theory of graph limits, I develop methods that deepen our theoretical understanding of complex networks and address pressing challenges in business operations, including healthcare and online markets.
+ 
+
+My research centers on **learning and decision-making using network data**. By integrating tools from applied probability, algorithm design, and the theory of graph limits, I develop methods that deepen our theoretical understanding of complex networks and address pressing challenges in business operations, including healthcare and online markets.
 
 As one illustration of my broader agenda, I have designed algorithms with provable theoretical guarantees to predict epidemic trajectories using small, local network samples—eliminating the need for parametric model assumptions about the underlying network. In a different line of work, I collaborated with the Los Angeles Unified School District (LAUSD) to create network models for epidemic spread, guiding COVID-19 reopening strategies and informing safer, more equitable policy decisions.
 
