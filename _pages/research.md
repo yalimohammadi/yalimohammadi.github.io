@@ -48,7 +48,7 @@ Health Management, Policy, and Innovation (2021). [\[paper\]](https://hmpi.org/2
 
 **A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
 *with Luana Ruiz and Amin Saberi*\
-IEEE International Symposium on Information Theory (ISIT 2025) [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
+IEEE International Symposium on Information Theory (ISIT'25) [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
 
 
 **Incentive Compatibility in the Auto-bidding World**
