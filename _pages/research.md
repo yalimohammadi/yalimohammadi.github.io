@@ -11,6 +11,9 @@ permalink: /research/
 ### Working Papers and Preprints Under Review:
 <div style="margin-bottom: 20px;"></div>
 
+**Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**
+*with Kiana Asgari* [\[paper\]](https://yalimohammadi.github.io/files/Mallows_Learned_Metric.pdf)
+
 **Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
