@@ -12,7 +12,7 @@ permalink: /research/
 <div style="margin-bottom: 20px;"></div>
 
 **Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**
-*with Kiana Asgari* [\[paper\]](https://yalimohammadi.github.io/files/Mallows_Learned_Metric.pdf)
+*with Kiana Asgari* [\[paper\]](https://yalimohammadi.github.io/files/Mallows_Learned_Metric.pdf) [\[Talk\]](https://www.youtube.com/watch?v=aYAPbYV9Ars)
 
 **Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
 *with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
@@ -32,7 +32,7 @@ permalink: /research/
 
 **Locality of Random Digraphs on Expanders**
 *with Christian Borgs and Amin Saberi*\
-Annals of Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
+Annals of Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short) [\[Talk\]](https://www.youtube.com/watch?v=pOrEESEluxU)
 
 **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
 *with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
@@ -51,18 +51,18 @@ Health Management, Policy, and Innovation (2021). [\[paper\]](https://hmpi.org/2
 
 **A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
 *with Luana Ruiz and Amin Saberi*\
-IEEE International Symposium on Information Theory (ISIT'25). [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
+IEEE International Symposium on Information Theory (ISIT'25). [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf) [\[Talk\]](https://www.youtube.com/watch?v=SkdEvaMVRR4)
 
 
 **Incentive Compatibility in the Auto-bidding World**
 *with Aranyak Mehta and Andres Perlroth*\
-ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
+ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf) [\[Talk\]](https://www.youtube.com/watch?v=8yQCjh9en6g)
 
 
 
 **Excess Supply in Spatial Matching Markets**
 *with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
-ACM Conference on Economics and Computation (EC'22). [\[paper\]](https://arxiv.org/abs/2104.03219)
+ACM Conference on Economics and Computation (EC'22). [\[paper\]](https://arxiv.org/abs/2104.03219) [\[Talk\]](https://www.youtube.com/watch?v=pYp0p6kovAM)
 
 
 **Algorithms Using Local Graph Features to Predict Epidemics**
