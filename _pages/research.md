@@ -11,6 +11,8 @@ permalink: /research/
 ### Working Papers and Preprints Under Review:
 <div style="margin-bottom: 20px;"></div>
 
+**Auditing the Auditors: Does Community-based Moderation Get It Right?** *with Karissa Huang, Christian Borgs, Jennifer Chayes*
+
 **Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**
 *with Kiana Asgari* [\[paper\]](https://yalimohammadi.github.io/files/Mallows_Learned_Metric.pdf) [\[Talk\]](https://www.youtube.com/watch?v=aYAPbYV9Ars)
 
