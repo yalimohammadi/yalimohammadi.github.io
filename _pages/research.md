@@ -76,8 +76,13 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA'22). [\[paper\]](https://arxiv.o
 ACM Symposium on Theory of Computing (STOC'21) [\[paper\]](https://arxiv.org/pdf/2102.02708.pdf)
 
 
+---
 
+<br>
 
+### Phd Thesis:
+
+Learning from Network Data : Algorithmic Insights into Epidemic Prediction and More. [\[pdf\]](https://stacks.stanford.edu/file/jv712hp7808/thesis-augmented.pdf)
 
 
 
