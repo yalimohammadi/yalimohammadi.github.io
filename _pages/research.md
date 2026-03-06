@@ -16,9 +16,6 @@ permalink: /research/
 **Mallows Model with Learned Distance Metrics: Sampling and Maximum Likelihood Estimation**
 *with Kiana Asgari* [\[paper\]](https://yalimohammadi.github.io/files/Mallows_Learned_Metric.pdf) [\[Talk\]](https://www.youtube.com/watch?v=aYAPbYV9Ars)
 
-**Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
-*with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
-
 **The impact of COVID-19 mitigation and testing on reopening a U.S. school district**  
 *with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer* 
 
@@ -31,6 +28,11 @@ permalink: /research/
 
 ### Journal Publications:
 <div style="margin-bottom: 20px;"></div>
+
+
+**Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
+*with Christian Borgs, Remco van der Hofstad, and Amin Saberi*\
+Operations Research (forthcoming). [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
 
 **Locality of Random Digraphs on Expanders**
 *with Christian Borgs and Amin Saberi*\
