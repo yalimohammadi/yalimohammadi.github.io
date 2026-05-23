@@ -411,7 +411,30 @@ footer {
     gap: 0.25rem;
   }
 }
-
+.pronounce {
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #555;
+}
+.pronounce summary {
+  cursor: pointer;
+  list-style: none;
+  display: inline;
+  border-bottom: 1px dashed #8b1f1f;
+  transition: color 0.15s;
+}
+.pronounce summary::-webkit-details-marker { display: none; }
+.pronounce summary:hover,
+.pronounce[open] summary { color: #8b1f1f; }
+.pronounce[open] summary { border-bottom-color: transparent; }
+.pronounce p {
+  font-style: normal;
+  color: #222;
+  margin: 0.75rem 0 0;
+  padding-left: 0.85rem;
+  border-left: 2px solid #8b1f1f;
+  line-height: 1.6;
+}
 /* ---------- Print ---------- */
 @media print {
   nav, footer { display: none; }
