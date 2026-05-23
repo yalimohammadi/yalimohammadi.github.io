@@ -11,7 +11,6 @@
     <a href="#about">ABOUT</a>
     <a href="#news">NEWS</a>
     <a href="#research">RESEARCH</a>
-    <a href="#talks">TALKS</a>
     <a href="#teaching">TEACHING</a>
     <a href="#service">SERVICE</a>
     <a href="#cv">CV</a>
@@ -61,15 +60,6 @@
   {% for pub in site.data.publications.conferences %}{% include pub.html pub=pub %}{% endfor %}
 </section>
 
-<section id="talks">
-  <h2 class="section-header">— INVITED TALKS</h2>
-  {% for talk in site.data.talks %}
-  <h3 class="subhead">&ldquo;{{ talk.topic }}&rdquo;</h3>
-  {% for venue in talk.venues %}
-  <div class="talk-item"><span class="date">{{ venue.date }}</span> · {{ venue.where }}</div>
-  {% endfor %}
-  {% endfor %}
-</section>
 
 <section id="teaching">
   <h2 class="section-header">— TEACHING</h2>
