@@ -1,0 +1,15 @@
+{%- capture bold_name -%}<b>{{ site.author.short_name }}</b>{%- endcapture -%}
+<div class="pub">
+  <div class="pub-citation">{{ include.pub.authors | replace: site.author.short_name, bold_name }}. &ldquo;{{ include.pub.title }}.&rdquo;{% if include.pub.venue %} <span class="meta">{{ include.pub.venue }}{% if include.pub.year %}, {{ include.pub.year }}{% endif %}.</span>{% endif %}</div>
+  {%- if include.pub.arxiv or include.pub.slides or include.pub.video or include.pub.abstract -%}
+  <div class="pub-pills">
+    {%- if include.pub.arxiv == "#" -%}<span class="pill pill-tbd">arXiv</span>{%- elsif include.pub.arxiv -%}<a class="pill" href="https://arxiv.org/abs/{{ include.pub.arxiv }}">arXiv</a>{%- endif -%}
+    {%- if include.pub.slides == "#" -%}<span class="pill pill-tbd">slides</span>{%- elsif include.pub.slides -%}<a class="pill" href="{{ include.pub.slides }}">slides</a>{%- endif -%}
+    {%- if include.pub.video == "#" -%}<span class="pill pill-tbd">video</span>{%- elsif include.pub.video -%}<a class="pill" href="{{ include.pub.video }}">video</a>{%- endif -%}
+    {%- if include.pub.abstract -%}<details class="abstract-toggle"><summary class="pill">abstract</summary></details>{%- endif -%}
+  </div>
+  {%- endif -%}
+  {%- if include.pub.abstract -%}
+  <div class="ab-body">{{ include.pub.abstract | markdownify }}</div>
+  {%- endif -%}
+</div>

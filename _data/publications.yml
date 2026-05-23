@@ -1,0 +1,143 @@
+# Each paper supports four optional fields that render as pills:
+#   arxiv: "ID"          → real link to https://arxiv.org/abs/ID
+#   slides: "URL"        → real link to slides PDF
+#   video: "URL"         → real link to video (YouTube etc.)
+#   abstract: |          → click-to-expand abstract (markdown OK)
+#     text here
+#
+# Use "#" as a placeholder value to render a muted (TBD) pill, so the page
+# stays visually uniform while you collect content. Remove the field entirely
+# to omit the pill on a given paper.
+
+working_papers:
+  - authors: "Y. Alimohammadi, R. Galgana, N. Golrezaei"
+    title: "The Value of User Expressiveness with a Strategic Recommender"
+    arxiv: "#"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, G. Mantegazza"
+    title: "Information Sharing in Conversational Ad Auctions"
+    arxiv: "#"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, C. Borgs, J. Chayes, K. Huang"
+    title: "Auditing the Auditors: Does Community-based Moderation Get It Right?"
+    arxiv: "2603.18053"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, K. Asgari"
+    title: "How to Measure Differences in Ranking Models? Maximum Likelihood Estimation and Sampling from Mallows Model with Learned Metric"
+    arxiv: "2507.08108"
+    slides: "#"
+    video: "https://www.youtube.com/watch?v=aYAPbYV9Ars"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, S. Isik, A. Saberi"
+    title: "Local Limits of Small-World Networks"
+    arxiv: "2501.11226"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+journals:
+  - authors: "Y. Alimohammadi, C. Borgs, R. van der Hofstad, A. Saberi"
+    title: "Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes"
+    venue: "Operations Research"
+    year: 2026
+    arxiv: "#"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, C. Borgs, A. Saberi"
+    title: "Locality of Random Digraphs on Expanders"
+    venue: "Annals of Probability"
+    year: 2023
+    arxiv: "#"
+    slides: "#"
+    video: "https://www.youtube.com/watch?v=pOrEESEluxU"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, P. Diaconis, M. Roghani, A. Saberi"
+    title: "Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings"
+    venue: "Annals of Applied Probability"
+    year: 2023
+    arxiv: "#"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, K. Shiragur, R. Johari, D. Scheinker, K. Schulman, K. Staudenmayer"
+    title: "Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic: Schools May Offer Students Shelter from the Storm"
+    venue: "Health Management, Policy, and Innovation"
+    year: 2021
+    arxiv: "#"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+conferences:
+  - authors: "Y. Alimohammadi, L. Ruiz, A. Saberi"
+    title: "A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks"
+    venue: "ISIT"
+    year: 2025
+    arxiv: "2310.10953"
+    slides: "#"
+    video: "https://www.youtube.com/watch?v=SkdEvaMVRR4"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, A. Mehta, A. Perlroth"
+    title: "Incentive Compatibility in the Auto-bidding World"
+    venue: "EC"
+    year: 2023
+    arxiv: "#"
+    slides: "#"
+    video: "https://www.youtube.com/watch?v=8yQCjh9en6g"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, C. Borgs, A. Saberi"
+    title: "Algorithms Using Local Graph Features to Predict Epidemics"
+    venue: "SODA"
+    year: 2022
+    arxiv: "2110.08961"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "M. Akbarpour, Y. Alimohammadi, S. Li, A. Saberi"
+    title: "The Value of Excess Supply in Spatial Matching Markets"
+    venue: "EC"
+    year: 2022
+    arxiv: "2104.03219"
+    slides: "#"
+    video: "https://www.youtube.com/watch?v=pYp0p6kovAM"
+    abstract: |
+      _Abstract coming soon._
+
+  - authors: "Y. Alimohammadi, N. Anari, K. Shiragur, T.-D. Vuong"
+    title: "Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More"
+    venue: "STOC"
+    year: 2021
+    arxiv: "2102.02708"
+    slides: "#"
+    video: "#"
+    abstract: |
+      _Abstract coming soon._

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale | default: 'en' }}">
+<head>
+{% include head.html %}
+</head>
+<body>
+
+<nav id="top">
+  <a href="#top" class="brand">Y. ALIMOHAMMADI</a>
+  <div class="nav-links">
+    <a href="#about">ABOUT</a>
+    <a href="#news">NEWS</a>
+    <a href="#research">RESEARCH</a>
+    <a href="#talks">TALKS</a>
+    <a href="#teaching">TEACHING</a>
+    <a href="#service">SERVICE</a>
+    <a href="#cv">CV</a>
+  </div>
+</nav>
+
+<main>
+
+<section class="hero">
+  <div class="hero-centered">
+    <div class="photo">
+      {% if site.author.photo %}
+        <img src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}">
+      {% endif %}
+    </div>
+    <h1>Yeganeh<br><em>Alimohammadi</em></h1>
+    <p class="subtitle">{{ site.author.position }}<br>{{ site.author.affiliation }}</p>
+  </div>
+</section>
+
+<section id="about">
+  <hr>
+  <p>I design principled methods for learning and decision-making in complex systems where data is incomplete, costly to collect, or shaped by strategic behavior. Drawing on tools from applied probability, optimization, and algorithm design, my work builds robust, data-efficient algorithms for reliable inference and intervention.</p>
+  <p class="muted">Previously: UC President's Postdoctoral Fellow at Berkeley with Christian Borgs, Ph.D. in Operations Research at Stanford with Amin Saberi, research fellow at the Simons Institute, B.Sc. from Sharif University of Technology.</p>
+</section>
+
+<section id="news">
+  <h2 class="section-header">— RECENT NEWS</h2>
+  {% for item in site.data.news %}
+  <div class="news-item">
+    <span class="date">{{ item.date }}</span>
+    <span>{{ item.text }}</span>
+  </div>
+  {% endfor %}
+</section>
+
+<section id="research">
+  <h2 class="section-header">— RESEARCH</h2>
+
+  <h3 class="subhead">Working papers</h3>
+  {% for pub in site.data.publications.working_papers %}{% include pub.html pub=pub %}{% endfor %}
+
+  <h3 class="subhead">Refereed journal publications</h3>
+  {% for pub in site.data.publications.journals %}{% include pub.html pub=pub %}{% endfor %}
+
+  <h3 class="subhead">Refereed conference proceedings</h3>
+  {% for pub in site.data.publications.conferences %}{% include pub.html pub=pub %}{% endfor %}
+</section>
+
+<section id="talks">
+  <h2 class="section-header">— INVITED TALKS</h2>
+  {% for talk in site.data.talks %}
+  <h3 class="subhead">&ldquo;{{ talk.topic }}&rdquo;</h3>
+  {% for venue in talk.venues %}
+  <div class="talk-item"><span class="date">{{ venue.date }}</span> · {{ venue.where }}</div>
+  {% endfor %}
+  {% endfor %}
+</section>
+
+<section id="teaching">
+  <h2 class="section-header">— TEACHING</h2>
+
+  <h3 class="subhead">USC Marshall (instructor)</h3>
+  {% for course in site.data.teaching.instructor %}
+  <div class="course-item">
+    <b>{{ course.code }}:</b> {{ course.title }} · <span class="date">{{ course.term }}</span>
+    {% if course.note %}<br><span class="course-note">{{ course.note }}</span>{% endif %}
+  </div>
+  {% endfor %}
+
+  <h3 class="subhead">Stanford (teaching assistant)</h3>
+  {% for course in site.data.teaching.ta %}
+  <div class="course-item"><b>{{ course.code }}:</b> {{ course.title }} · <span class="date">{{ course.term }}</span></div>
+  {% endfor %}
+</section>
+
+<section id="service">
+  <h2 class="section-header">— SERVICE</h2>
+
+  <h3 class="subhead">Conference program committees</h3>
+  {% for item in site.data.service.pc %}
+  <div class="service-item">{{ item }}</div>
+  {% endfor %}
+
+  <h3 class="subhead">Journal reviewing</h3>
+  <p class="journal-list">{{ site.data.service.journals | join: " · " }}</p>
+
+  <h3 class="subhead">Seminar organization</h3>
+  {% for sem in site.data.service.seminars %}
+  <div class="service-item">{{ sem.name }} · <span class="date">{{ sem.period }}</span></div>
+  {% endfor %}
+
+  <h3 class="subhead">Students &amp; mentoring</h3>
+  {% for student in site.data.students.phd %}
+  <div class="service-item"><b>{{ student.name }}</b> ({{ student.affiliation }}){% if student.note %} · <span class="course-note">{{ student.note }}</span>{% endif %}</div>
+  {% endfor %}
+  <div class="service-item">
+    {% for m in site.data.students.mentees %}<b>{{ m.name }}</b> ({{ m.affiliation }}){% unless forloop.last %} · {% endunless %}{% endfor %}
+    <span class="course-note">— mentees</span>
+  </div>
+</section>
+
+<section id="cv">
+  <h2 class="section-header">— HONORS &amp; CONTACT</h2>
+
+  <h3 class="subhead">Selected honors</h3>
+  {% for award in site.data.awards %}
+  <div class="award-item"><span class="date">{{ award.year }}</span> · {{ award.text }}{% if award.note %} <span class="course-note">({{ award.note }})</span>{% endif %}</div>
+  {% endfor %}
+
+  <h3 class="subhead">Contact</h3>
+  <p class="links">
+    <a href="{{ site.author.cv | relative_url }}">Download CV</a> ·
+    <a href="{{ site.social.scholar }}">Google Scholar</a> ·
+    <a href="{{ site.social.github }}">GitHub</a> ·
+    <a href="{{ site.social.linkedin }}">LinkedIn</a>
+  </p>
+  <p class="email">Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+</section>
+
+</main>
+
+<footer>
+  <span>USC MARSHALL · DATA SCIENCES &amp; OPERATIONS</span>
+  <span>yalimohammadi.github.io</span>
+</footer>
+
+</body>
+</html>

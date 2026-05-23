@@ -1,0 +1,63 @@
+- topic: How to Measure Differences in Ranking Models?
+  venues:
+    - date: Oct 2025
+      where: INFORMS Annual Meeting
+    - date: Aug 2025
+      where: Joint Statistical Meeting
+    - date: Jun 2025
+      where: INFORMS Applied Probability Society Meeting
+    - date: May 2025
+      where: Simons Laufer Mathematical Sciences Institute
+
+- topic: "Epidemic Prediction and Control: Insights from Network Data"
+  venues:
+    - date: Nov 2025
+      where: UCLA, Los Angeles Probability Forum
+    - date: May 2025
+      where: LU–UMN Joint Probability Seminar
+    - date: Feb 2025
+      where: UC Berkeley, Neyman Statistics Seminar
+    - date: Jan 2024
+      where: "Columbia IEOR · Chicago Booth · Northwestern Kellogg · NYU Stern · Cornell ORIE · USC · Michigan IOE"
+    - date: Nov 2023
+      where: Georgia Tech ISyE Seminar
+    - date: Oct 2023
+      where: INFORMS Annual Meeting
+    - date: May 2023
+      where: Fields Institute, Workshop on Algorithms and Models for the Web Graph (plenary)
+
+- topic: "Graph Neural Networks: A Local Graph Limit Perspective"
+  venues:
+    - date: Aug 2025
+      where: Simons Institute, UC Berkeley
+    - date: Oct 2024
+      where: INFORMS Annual Meeting
+
+- topic: Incentive Compatibility in the Auto-bidding World
+  venues:
+    - date: Mar 2024
+      where: Meta, Market Algorithm Group
+    - date: Oct 2023
+      where: INFORMS Annual Meeting (Highlights from EC)
+    - date: Aug 2023
+      where: Stanford Institute for Theoretical Economics
+    - date: Sep 2022
+      where: Google Research, Market Algorithms Seminar
+
+- topic: Locality of Random Digraphs on Expanders
+  venues:
+    - date: Mar 2023
+      where: London School of Economics
+    - date: Nov 2022
+      where: Duke Fuqua, OR and Data Structures Workshop
+    - date: Oct 2022
+      where: "Cornell ORIE Young Researcher Workshop · INFORMS Annual · Cornell CS Theory"
+    - date: Sep 2022
+      where: Simons Institute, UC Berkeley
+
+- topic: Earlier talks
+  venues:
+    - date: 2021–23
+      where: '"Network Models for School Reopening" at INFORMS Healthcare, UMD Brin Center'
+    - date: 2021
+      where: '"Value of Excess Supply in Spatial Matching Markets" at LBS, LSE, Simons Institute'

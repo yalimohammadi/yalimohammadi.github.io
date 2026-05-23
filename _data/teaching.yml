@@ -1,0 +1,16 @@
+instructor:
+  - code: DSO 576
+    title: Algorithmic Thinking with Python
+    term: Fall 2025
+    note: Core course for the MS in Business Analytics. Class size 190.
+
+ta:
+  - code: CS 265
+    title: Randomized Algorithms and Probability Methods
+    term: Winter 2022
+  - code: MS&E 235/337
+    title: Network Structure and Epidemics
+    term: Fall 2020
+  - code: CS 161
+    title: Design and Analysis of Algorithms
+    term: Summer 2019
