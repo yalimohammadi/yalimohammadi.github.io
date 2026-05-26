@@ -31,24 +31,58 @@ working_papers:
     arxiv: "2603.18053"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      Online social platforms increasingly rely on crowd-sourced systems to label
+      misleading content at scale, but these systems must both aggregate users'
+      evaluations and decide whose evaluations to trust. To address the latter, many
+      platforms audit users by rewarding agreement with the final aggregate outcome —
+      a design we term consensus-based auditing. We analyze the consequences of this
+      design in X's Community Notes, which in September 2022 adopted consensus-based
+      auditing that ties users' eligibility for participation to agreement with the
+      eventual platform outcome. We find evidence of strategic conformity: minority
+      contributors' evaluations drift toward the majority and their participation
+      share falls on controversial topics, where independent signals matter most. We
+      formalize this mechanism in a behavioral model in which contributors trade off
+      private beliefs against anticipated penalties for disagreement.
 
   - authors: "Y. Alimohammadi, K. Asgari"
     title: "How to Measure Differences in Ranking Models? Maximum Likelihood Estimation and Sampling from Mallows Model with Learned Metric"
     arxiv: "2507.08108"
     slides: "#"
     video: "https://www.youtube.com/watch?v=aYAPbYV9Ars"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      The Mallows model is a widely-used probabilistic framework for learning from
+      ranking data, with applications ranging from recommendation systems and voting
+      to aligning language models with human preferences. Under this model, observed
+      rankings are noisy perturbations of a central ranking σ, with likelihood
+      decaying exponentially in distance from σ. Existing methods mainly focus on
+      fixed distances (such as Kendall's τ distance), with no principled approach to
+      learning the distance metric directly from data. In practice, however, rankings
+      naturally vary by context. We focus on the L_α Mallows model and present an
+      efficient Maximum Likelihood Estimation algorithm that jointly estimates the
+      central ranking σ, the dispersion parameter β, and the distance parameter α.
+
 
   - authors: "Y. Alimohammadi, S. Isik, A. Saberi"
     title: "Local Limits of Small-World Networks"
     arxiv: "2501.11226"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract:  >
+      Small-world networks, known for high local clustering and short path lengths,
+      are a fundamental structure in many real-world systems, including social,
+      biological, and technological networks. We apply the theory of (marked) local
+      convergence (also known as Benjamini–Schramm convergence) to derive the limiting
+      behavior of the local structures for two commonly studied small-world network
+      models: the Watts–Strogatz and the Kleinberg models. Establishing local
+      convergence enables us to show that key network measures, such as clustering
+      coefficient, PageRank, greedy maximal independent set, number of spanning
+      trees, and tree entropy, converge as network size increases, with their limits
+      determined by the graph's local structure. We further observe a critical change
+      in the behavior of the limit exactly when the parameter governing long-range
+      connections in the Kleinberg model crosses the threshold where decentralized
+      search remains efficient, offering a new perspective on why decentralized
+      algorithms fail in certain regimes.
 
 journals:
   - authors: "Y. Alimohammadi, C. Borgs, R. van der Hofstad, A. Saberi"
@@ -58,8 +92,19 @@ journals:
     arxiv: "#"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract:  >
+      We study how to predict the trajectory of an SIR epidemic on a network when
+      the full network is unobservable. We design a local algorithm that, given a
+      randomly chosen target node, explores at most k of its neighbors by simulating
+      the epidemic process backward in time, and infers when the target would have
+      been infected. Averaging over q random target nodes yields an estimator for
+      the global fractions S(t), I(t), R(t). Under a tightness condition on the
+      network sequence, we prove that the sample size required for ε accuracy is a
+      constant independent of network size — both k and q remain bounded as the
+      population grows. The result extends to random network models under a
+      stability condition on local neighborhood distributions, and to weighted
+      sampling. We validate the predictions on Copenhagen contact data and on a
+      large-scale mobility network of San Francisco.
 
   - authors: "Y. Alimohammadi, C. Borgs, A. Saberi"
     title: "Locality of Random Digraphs on Expanders"
@@ -78,8 +123,18 @@ journals:
     arxiv: "#"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      This paper makes three contributions to estimating the number of perfect
+      matchings in bipartite graphs. First, we prove that the popular sequential
+      importance sampling algorithm works in polynomial time for dense bipartite
+      graphs: our algorithm gives a (1±ε)-approximation for the number of perfect
+      matchings of a λ-dense bipartite graph, using O(n^((1−2λ)/λ) ε^(−2)) samples,
+      where a λ-dense bipartite graph has all degrees greater than (λ+1/2)n. Second,
+      practical applications of the algorithm require many calls to matching
+      algorithms; a novel preprocessing step is provided which yields significant
+      improvements. Third, three applications are given: counting Latin squares, a
+      practical way of computing the greedy algorithm for a card-guessing game with
+      feedback, and stochastic block models.
 
   - authors: "Y. Alimohammadi, K. Shiragur, R. Johari, D. Scheinker, K. Schulman, K. Staudenmayer"
     title: "Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic: Schools May Offer Students Shelter from the Storm"
@@ -99,8 +154,20 @@ conferences:
     arxiv: "2310.10953"
     slides: "#"
     video: "https://www.youtube.com/watch?v=SkdEvaMVRR4"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      We propose a theoretical framework for training Graph Neural Networks (GNNs)
+      on large input graphs via training on small, fixed-size sampled subgraphs.
+      This framework is applicable to a wide range of models, including popular
+      sampling-based GNNs such as GraphSAGE and FastGCN. Leveraging the theory of
+      graph local limits, we prove that, under mild assumptions, parameters learned
+      from training sampling-based GNNs on small samples of a large input graph are
+      within an ε-neighborhood of the outcome of training the same architecture on
+      the whole graph. We derive bounds on the number of samples, the size of the
+      graph, and the training steps required as a function of ε. We empirically
+      illustrate our results on a node classification task on large citation
+      graphs, observing that sampling-based GNNs trained on local subgraphs 12×
+      smaller than the original achieve comparable performance to those trained on
+      the input graph.
 
   - authors: "Y. Alimohammadi, A. Mehta, A. Perlroth"
     title: "Incentive Compatibility in the Auto-bidding World"
@@ -109,8 +176,15 @@ conferences:
     arxiv: "#"
     slides: "#"
     video: "https://www.youtube.com/watch?v=8yQCjh9en6g"
-    abstract: |
-      _Abstract coming soon._
+    abstract: > 
+      Auto-bidding has recently become a popular feature in ad auctions: advertisers
+      provide high-level constraints and goals to an automated agent, which optimizes
+      their auction bids on their behalf. We examine the effect of different auction
+      rules on the incentives of advertisers to truthfully report their constraints
+      to the auto-bidder intermediaries. More precisely, we study whether canonical
+      auctions such as first-price (FPA) and second-price (SPA) are auto-bidding
+      incentive compatible (AIC) — that is, whether an advertiser can gain by
+      misreporting their constraints to the autobidder.
 
   - authors: "Y. Alimohammadi, C. Borgs, A. Saberi"
     title: "Algorithms Using Local Graph Features to Predict Epidemics"
@@ -119,8 +193,18 @@ conferences:
     arxiv: "2110.08961"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      We study a simple model of epidemics where an infected node transmits the
+      infection to its neighbors independently with probability p — also known as the
+      independent cascade or SIR model with fixed recovery time. The size of an
+      outbreak in this model is closely related to that of the giant connected
+      component in edge percolation. Even though existing models capture the effects
+      of degree inhomogeneity and the role of super-spreaders, they only consider
+      graphs that are locally tree-like, i.e., have few or no short cycles. We give
+      an algorithm that returns a (1−ε) approximation of the probability and final
+      size of an outbreak by accessing a constant-size neighborhood of a constant
+      number of nodes chosen uniformly at random — without requiring local
+      tree-likeness.
 
   - authors: "M. Akbarpour, Y. Alimohammadi, S. Li, A. Saberi"
     title: "The Value of Excess Supply in Spatial Matching Markets"
@@ -129,8 +213,19 @@ conferences:
     arxiv: "2104.03219"
     slides: "#"
     video: "https://www.youtube.com/watch?v=pYp0p6kovAM"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      We study dynamic matching in a spatial setting. Drivers are distributed at
+      random on some interval. Riders arrive in some (possibly adversarial) order at
+      randomly drawn points. The platform observes the location of the drivers and
+      can match newly arrived riders immediately, or can wait for more riders to
+      arrive; unmatched riders incur a waiting cost c per period. We quantify the
+      value of slightly increasing supply: when there are (1+ε) drivers per rider
+      (for any ε > 0), the cost of matching returned by a simple greedy algorithm —
+      which pairs each arriving rider to the closest available driver — is provably
+      better than that of the ex-post optimal matching with exactly one driver per
+      rider. No level of sophistication in the matching algorithm and no amount of
+      data to predict times and locations of future demand can beat a naive greedy
+      algorithm with a small excess supply.
 
   - authors: "Y. Alimohammadi, N. Anari, K. Shiragur, T.-D. Vuong"
     title: "Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More"
@@ -139,5 +234,16 @@ conferences:
     arxiv: "2102.02708"
     slides: "#"
     video: "#"
-    abstract: |
-      _Abstract coming soon._
+    abstract: >
+      We show fully polynomial time randomized approximation schemes (FPRAS) for
+      counting matchings of a given size, or more generally sampling/counting
+      monomer–dimer systems in planar, not-necessarily-bipartite graphs. While
+      perfect matchings on planar graphs can be counted exactly in polynomial time,
+      counting non-perfect matchings was shown by Jerrum to be #P-hard, who also
+      raised the question of whether efficient approximate counting is possible. We
+      answer this affirmatively by showing that the multi-site Glauber dynamics on
+      the set of monomers in a monomer–dimer system always mixes rapidly, and that
+      this dynamics can be implemented efficiently on downward-closed families of
+      graphs where counting perfect matchings is tractable. As further applications,
+      we show how to sample efficiently from partition-constrained strongly Rayleigh
+      distributions and nonsymmetric determinantal point processes.
