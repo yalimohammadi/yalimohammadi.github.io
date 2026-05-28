@@ -4,8 +4,12 @@
 
 - date: "2026"
   text: |
-    Amer Goel (PhD advisee) awarded the NSF Graduate Research Fellowship.
+    Amer Goel (PhD advisee -- co advised with Andrew Daw) awarded the NSF Graduate Research Fellowship.
 
+- date: "July 2026"
+  text: |
+    Organizing the workshop on <a href="https://llm-incentives.com/">Game Theory and Mechanism Design with Large Language Models</a> at ACM EC July 6th.
+    
 - date: "May 2026"
   text: |
     Organizing <a href="https://socalopsday.usc.edu">SoCal OR/OM Day</a> at USC Marshall, May 29.
@@ -13,10 +17,6 @@
 - date: "2026"
   text: |
     Serving as Senior PC member for ACM EC 2026.
-
-- date: "Fall 2025"
-  text: |
-    Teaching DSO 576: Algorithmic Thinking with Python (190 students, MSBA core).
 
 - date: "Sep 2025"
   text: |
